@@ -7,7 +7,6 @@
   <img src="https://user-images.githubusercontent.com/48232101/113013474-75f6d080-919b-11eb-83ed-d8ba2ab775a1.gif" width="40px">
 </p>
 
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=3ncrypt3db0t&label=Visitors&color=9acd32&style=for-the-badge"> 
 </p>
