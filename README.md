@@ -1,9 +1,8 @@
 ![Banner](https://user-images.githubusercontent.com/48232101/113235702-52c74080-92c3-11eb-86b8-529fe75350f8.gif)
 
-
 <h1 align="center"> 🙏 Namaste, I'm 3ncrypt3db0t 🤖 </h1>
 <h2 align="center">I'm an idiot trying to figure out stuff!!</h2>
-### I'm !**</>** 😃
+<h3 align="center">I'm ❗👨‍💻</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48232101/113013474-75f6d080-919b-11eb-83ed-d8ba2ab775a1.gif" width="40px">
 </p>
