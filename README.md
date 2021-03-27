@@ -15,6 +15,8 @@
 <p align="left">
 <a href="https://t.me/ID10TIRL" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="3ncrypt3db0t" height="30" width="40" /></a>
 <a href="https://github.com/3ncrypt3db0t" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="_3ncrypt3db0t" height="30" width="40" /></a>
+<a href="https://cutt.ly/8xXoY2X" target="blank"><img align="center" src="https://cutt.ly/AxXokbf" alt="_3ncrypt3db0t" height="30" width="40" /></a>
+<a href="https://cutt.ly/cxXo8H6" target="blank"><img align="center" src="https://cutt.ly/WxXpofr" alt="_3ncrypt3db0t" height="30" width="40" /></a>
 </p>
 
 ### Spotify Playing 🎧
