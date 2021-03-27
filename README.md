@@ -22,7 +22,7 @@
   <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing">
 </p>
 
-### Language and Tools:
+### Language and Tools
 
 <img align="left" alt="VsCode" width="26px" src="https://cutt.ly/mxZZddV" />
 <img align="left" alt="Linux" width="26px" src="https://cutt.ly/axXiSvA" />
@@ -44,11 +44,14 @@
 
 <br/>
 <br/>
+<br/>
 
 ### Language Prefrences:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3ncrypt3db0t&show_icons=true&locale=en&layout=compact">
 </p>
+<br/>
+<br/>
 
 ### GitHub Stat:
 <p align="left">&nbsp;
