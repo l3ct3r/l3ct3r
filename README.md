@@ -18,7 +18,7 @@
 </p>
 
 ### Spotify Playing 🎧
-<p align="center">
+<p align="left">
   <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing">
 </p>
 
@@ -36,10 +36,15 @@
 <img align="left" alt="React" width="26px" src="https://cutt.ly/mxZLfUw" />
 <img align="left" alt="PHP" width="26px" src="https://cutt.ly/KxZLR4F" />
 <img align="left" alt="MySQL" width="26px" src="https://cutt.ly/yxZLSlx" />
+<img align="left" alt="Firebase" width="26px" src="https://cutt.ly/qxXwfa7" />
 <img align="left" alt="Python" width="26px" src="https://cutt.ly/nxZLKFZ" />
+<img align="left" alt="Django" width="26px" src="https://cutt.ly/WxXqBWa" />
 <img align="left" alt="C" width="26px" src="https://cutt.ly/YxZ8hWp" />
 <img align="left" alt="GitHub" width="26px" src="https://cutt.ly/txZChgq" />
 <img align="left" alt="Terminal" width="26px" src="https://cutt.ly/YxZCWbH" />
+<img align="left" alt="Docker" width="26px" src="https://cutt.ly/9xXwTnU" />
+<img align="left" alt="Kubernetes" width="26px" src="https://cutt.ly/oxXwMM8" />
+
 
 <br/>
 <br/>
