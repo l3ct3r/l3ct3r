@@ -34,7 +34,7 @@
 <img align="left" alt="Firebase" width="26px" src="https://cutt.ly/qxXwfa7" />
 <img align="left" alt="Python" width="26px" src="https://cutt.ly/nxZLKFZ" />
 <img align="left" alt="Django" width="26px" src="https://cutt.ly/WxXqBWa" />
-<img align="left" alt="Flask" width="26px" src="https://cutt.ly/mxXtouR" />
+<img align="left" alt="Flask" width="26px" src="https://cutt.ly/kxXTrqu" />
 <img align="left" alt="Git" width="26px" src="https://cutt.ly/WxXyoqA" />
 <img align="left" alt="Terminal" width="26px" src="https://cutt.ly/JxXRYC8" />
 <img align="left" alt="Docker" width="26px" src="https://cutt.ly/9xXwTnU" />
