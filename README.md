@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://t.me/ID10TIRL" target="blank"><img align="center" src="https://cutt.ly/oxXpN8a" alt="3ncrypt3db0t" height="30" width="40" /></a>
 <a href="https://github.com/3ncrypt3db0t" target="blank"><img align="center" src="https://cutt.ly/WxXaq6N" alt="_3ncrypt3db0t" height="30" width="40" /></a>
-<a href="https://neupane_psyehed@outlook.com" target="blank"><img align="center" src="https://cutt.ly/wxXaDjl" alt="_3ncrypt3db0t" height="30" width="40" /></a>
+<a href="https://outlook.com" target="blank"><img align="center" src="https://cutt.ly/wxXaDjl" alt="_3ncrypt3db0t" height="30" width="40" /></a>
 
 </p>
 
