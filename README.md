@@ -29,7 +29,7 @@
 <img align="left" alt="HTML" width="26px" src="https://cutt.ly/gxZK0xn" />
 <img align="left" alt="CSS" width="26px" src="https://cutt.ly/gxZK4uO" />
 <img align="left" alt="JS" width="26px" src="https://cutt.ly/ZxXyOXD" />
-<img align="left" alt="PHP" width="26px" src="https://cutt.ly/0xXT083" />
+<img align="left" alt="PHP" width="26px" src="https://cutt.ly/9xXYLIB" />
 <img align="left" alt="MySQL" width="26px" src="https://cutt.ly/yxZLSlx" />
 <img align="left" alt="Firebase" width="26px" src="https://cutt.ly/qxXwfa7" />
 <img align="left" alt="Python" width="26px" src="https://cutt.ly/nxZLKFZ" />
