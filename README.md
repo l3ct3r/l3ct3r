@@ -42,6 +42,8 @@
 </p>
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3ncrypt3db0t&show_icons=true&locale=en" alt="3ncrypt3db0t" /></p>
+<p align="center">&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=3ncrypt3db0t&show_icons=true&locale=en">
+</p>
 
 
