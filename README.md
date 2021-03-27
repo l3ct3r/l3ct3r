@@ -12,7 +12,7 @@
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I mostly use Linux ()
 
-<h3 align="left">Talk with mem I'm kinda awesome :grin::</h3>
+<h3 align="left">Talk with me I'm kinda awesome :grin::</h3>
 <p align="left">
 <a href="https://t.me/ID10TIRL" target="blank"><img align="center" src="https://cutt.ly/oxXpN8a" alt="3ncrypt3db0t" height="30" width="40" /></a>
 </p>
