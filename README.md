@@ -13,7 +13,9 @@
 </p>
 
 ### Spotify Playing 🎧
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="3ncrypt3db0t Spotify Playing" width="350" />
+<p align="center">
+  <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing">
+</p>
 
 ### Language and Tools:
 
