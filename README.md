@@ -41,10 +41,9 @@
 <img align="left" alt="Kubernetes" width="26px" src="https://cutt.ly/oxXwMM8" />
 <img align="left" alt="NGNIX" width="26px" src="https://cutt.ly/BxXrv3e" />
 <img align="left" alt="Hugo" width="26px" src="https://cutt.ly/9xXyxcl" />
+<br/>
+<br/>
 
-<br/>
-<br/>
-<br/>
 
 ### Language Prefrences:
 <p align="left">
