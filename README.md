@@ -26,22 +26,21 @@
 
 <img align="left" alt="VsCode" width="26px" src="https://cutt.ly/mxZZddV" />
 <img align="left" alt="Linux" width="26px" src="https://cutt.ly/BxZZD3m" />
-<img align="left" alt="Hugo" width="26px" src="https://cutt.ly/oxXtjCs" />
 <img align="left" alt="HTML" width="26px" src="https://cutt.ly/gxZK0xn" />
 <img align="left" alt="CSS" width="26px" src="https://cutt.ly/gxZK4uO" />
-<img align="left" alt="JS" width="26px" src="https://cutt.ly/WxZLyjk" />
+<img align="left" alt="JS" width="26px" src="https://cutt.ly/ZxXyOXD" />
 <img align="left" alt="PHP" width="26px" src="https://cutt.ly/KxZLR4F" />
 <img align="left" alt="MySQL" width="26px" src="https://cutt.ly/yxZLSlx" />
 <img align="left" alt="Firebase" width="26px" src="https://cutt.ly/qxXwfa7" />
 <img align="left" alt="Python" width="26px" src="https://cutt.ly/nxZLKFZ" />
 <img align="left" alt="Django" width="26px" src="https://cutt.ly/WxXqBWa" />
 <img align="left" alt="Flask" width="26px" src="https://cutt.ly/mxXtouR" />
-<img align="left" alt="GitHub" width="26px" src="https://cutt.ly/txZChgq" />
+<img align="left" alt="Git" width="26px" src="https://cutt.ly/WxXyoqA" />
 <img align="left" alt="Terminal" width="26px" src="https://cutt.ly/YxZCWbH" />
 <img align="left" alt="Docker" width="26px" src="https://cutt.ly/9xXwTnU" />
 <img align="left" alt="Kubernetes" width="26px" src="https://cutt.ly/oxXwMM8" />
 <img align="left" alt="NGNIX" width="26px" src="https://cutt.ly/BxXrv3e" />
-
+<img align="left" alt="Hugo" width="26px" src="https://cutt.ly/9xXyxcl" />
 
 <br/>
 <br/>
