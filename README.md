@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Being able to contribute more to Open Source projects
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: I mostly use Linux ()
+- ⚡ Fun fact: I can explain 🎨 with attic 
 
 <h3 align="left">Talk with me I'm kinda awesome :stuck_out_tongue_closed_eyes: :</h3>
 <p align="left">
