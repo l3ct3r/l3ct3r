@@ -43,14 +43,16 @@
 <img align="left" alt="Hugo" width="26px" src="https://cutt.ly/9xXyxcl" />
 <br/>
 <br/>
+<br/>
+<br/>
 
 
-### Language Prefrences:
+### Language Prefrences
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3ncrypt3db0t&show_icons=true&locale=en&layout=compact">
 </p>
 
-### GitHub Stat:
+### GitHub Stat
 <p align="left">&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=3ncrypt3db0t&show_icons=true&locale=en">
 </p>
