@@ -25,7 +25,7 @@
 ### Language and Tools:
 
 <img align="left" alt="VsCode" width="26px" src="https://cutt.ly/mxZZddV" />
-<img align="left" alt="Linux" width="26px" src="https://cutt.ly/BxZZD3m" />
+<img align="left" alt="Linux" width="26px" src="https://cutt.ly/axXiSvA" />
 <img align="left" alt="HTML" width="26px" src="https://cutt.ly/gxZK0xn" />
 <img align="left" alt="CSS" width="26px" src="https://cutt.ly/gxZK4uO" />
 <img align="left" alt="JS" width="26px" src="https://cutt.ly/ZxXyOXD" />
