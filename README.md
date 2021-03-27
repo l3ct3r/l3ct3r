@@ -22,6 +22,7 @@
 <img align="left" alt="Network" width="26px" src="https://cutt.ly/NxZXfQY" />
 <img align="left" alt="Servers" width="26px" src="https://cutt.ly/IxZXzcJ" />
 <img align="left" alt="HTML" width="26px" src="https://cutt.ly/gxZK0xn" />
+<img align="left" alt="C" width="26px" src="https://cutt.ly/YxZ8hWp" />
 <img align="left" alt="CSS" width="26px" src="https://cutt.ly/gxZK4uO" />
 <img align="left" alt="JS" width="26px" src="https://cutt.ly/WxZLyjk" />
 <img align="left" alt="Ajax" width="26px" src="https://cutt.ly/5xZCNgQ" />
