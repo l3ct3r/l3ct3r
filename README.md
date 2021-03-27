@@ -36,7 +36,7 @@
 <img align="left" alt="Django" width="26px" src="https://cutt.ly/WxXqBWa" />
 <img align="left" alt="Flask" width="26px" src="https://cutt.ly/mxXtouR" />
 <img align="left" alt="Git" width="26px" src="https://cutt.ly/WxXyoqA" />
-<img align="left" alt="Terminal" width="26px" src="https://cutt.ly/YxZCWbH" />
+<img align="left" alt="Terminal" width="26px" src="https://cutt.ly/zxXiiao" />
 <img align="left" alt="Docker" width="26px" src="https://cutt.ly/9xXwTnU" />
 <img align="left" alt="Kubernetes" width="26px" src="https://cutt.ly/oxXwMM8" />
 <img align="left" alt="NGNIX" width="26px" src="https://cutt.ly/BxXrv3e" />
