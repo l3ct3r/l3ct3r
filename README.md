@@ -37,10 +37,10 @@
 <br/>
 <br/>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3ncrypt3db0t&show_icons=true&locale=en&layout=compact" alt="3ncrypt3db0t" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3ncrypt3db0t&show_icons=true&locale=en&layout=compact">
 </p>
-<br />
+<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3ncrypt3db0t&show_icons=true&locale=en" alt="3ncrypt3db0t" /></p>
 
