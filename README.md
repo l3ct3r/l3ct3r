@@ -37,8 +37,8 @@
 <br/>
 <br/>
 
-<p align ="center">
-  <img "https://github-readme-stats.vercel.app/api/top-langs?username=3ncrypt3db0t&show_icons=true&locale=en&layout=compact" alt="3ncrypt3db0t" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3ncrypt3db0t&show_icons=true&locale=en&layout=compact" alt="3ncrypt3db0t" />
 </p>
 <br />
 
