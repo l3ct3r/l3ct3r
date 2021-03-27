@@ -8,7 +8,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/ID10TIRL" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="khushboogoel01" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_khushboo.goel" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="khushboo goel" height="30" width="40" /></a>
+<a href="https://t.me/ID10TIRL" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="3ncrypt3db0t" height="30" width="40" /></a>
+<a href="https://github.com/3ncrypt3db0t" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="_3ncrypt3db0t" height="30" width="40" /></a>
 </p>
