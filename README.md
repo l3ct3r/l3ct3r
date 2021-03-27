@@ -1,6 +1,9 @@
 <h1 align="center">Hi there, I'm Aayush - aka **3ncrypt3db0t** 👋 </h1>
 <h3 align="center">An idiot to figure out stuff!!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 - 👨‍💻 You can also check out my portfolio at [3ncrypt3db0t](https://3ncrypt3db0t.github.io/)
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Being able to contribute more to Open Source projects
