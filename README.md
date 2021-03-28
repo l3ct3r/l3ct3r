@@ -31,7 +31,7 @@
 <img align="left" alt="HTML" width="26px" src="https://cutt.ly/gxZK0xn" target="_blank" />
 <img align="left" alt="CSS" width="26px" src="https://cutt.ly/gxZK4uO" target="_blank" />
 <img align="left" alt="JS" width="26px" src="https://cutt.ly/ZxXyOXD" target="_blank" />
-<img align="left" alt="YAML" width="26px" src="https://cutt.ly/yxNtIBO" target="_blank" />
+<img align="left" alt="YAML" width="26px" src="https://cutt.ly/nxNt6FI" target="_blank" />
 <img align="left" alt="PHP" width="26px" src="https://cutt.ly/9xXYLIB" target="_blank" />
 <img align="left" alt="MySQL" width="26px" src="https://cutt.ly/yxZLSlx" target="_blank" />
 <img align="left" alt="Firebase" width="26px" src="https://cutt.ly/qxXwfa7" target="_blank" />
