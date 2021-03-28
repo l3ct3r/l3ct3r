@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://t.me/ID10TIRL" target="blank"><img align="center" src="https://cutt.ly/oxXpN8a" alt="3ncrypt3db0t" height="30" width="40" /></a>
 </p>
-<br/>
+
 
 ### Spotify Playing 🎧
 <p align="left">
@@ -37,7 +37,6 @@
 <img align="left" alt="Python" width="26px" src="https://cutt.ly/nxZLKFZ" target="_blank" />
 <img align="left" alt="Django" width="26px" src="https://cutt.ly/WxXqBWa" target="_blank" />
 <img align="left" alt="Flask" width="26px" src="https://cutt.ly/kxXTrqu" target="_blank" />
-
 
 <br/>
 <br/>
