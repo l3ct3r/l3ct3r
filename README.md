@@ -22,10 +22,8 @@
   <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing">
 </p>
 
-###  Getting my hands dirty with ⤵️ 
+###  Languages ⤵️ 
 
-<img align="left" alt="VsCode" width="26px" src="https://kutt.it/QeLoxz" target="_blank" />
-<img align="left" alt="RPM" width="26px" src="https://cutt.ly/gxNrtQL" target="_blank" />
 <img align="left" alt="HTML" width="26px" src="https://cutt.ly/gxZK0xn" target="_blank" />
 <img align="left" alt="CSS" width="26px" src="https://cutt.ly/gxZK4uO" target="_blank" />
 <img align="left" alt="JS" width="26px" src="https://cutt.ly/ZxXyOXD" target="_blank" />
@@ -35,20 +33,28 @@
 <img align="left" alt="Python" width="26px" src="https://cutt.ly/nxZLKFZ" target="_blank" />
 <img align="left" alt="Django" width="26px" src="https://cutt.ly/WxXqBWa" target="_blank" />
 <img align="left" alt="Flask" width="26px" src="https://cutt.ly/kxXTrqu" target="_blank" />
-<img align="left" alt="Git" width="26px" src="https://cutt.ly/WxXyoqA" target="_blank" />
+
+
+<br/>
+<br/>
+
+### Software and Tools ⏬
+
+<img align="left" alt="VsCode" width="26px" src="https://kutt.it/QeLoxz" target="_blank" />
+<img align="left" alt="Debian" width="26px" src="" target="_blank" />
+<img align="left" alt="RPM" width="26px" src="" target="_blank" />
+
+<img align="left" alt="RPM" width="26px" src="https://cutt.ly/gxNrtQL" target="_blank" />
 <img align="left" alt="Docker" width="26px" src="https://cutt.ly/9xXwTnU" target="_blank" />
 <img align="left" alt="Kubernetes" width="26px" src="https://cutt.ly/oxXwMM8" target="_blank" />
 <img align="left" alt="Ansible" width="26px" src="https://cutt.ly/GxNudzX" target="_blank" />
 <img align="left" alt="NGNIX" width="26px" src="https://cutt.ly/BxXrv3e" target="_blank" />
 <img align="left" alt="Hugo" width="26px" src="https://cutt.ly/9xXyxcl" target="_blank" />
 <img align="left" alt="Vim" width="26px" src="https://cutt.ly/BxNtnu9" target="_blank" />
+<img align="left" alt="Git" width="26px" src="https://cutt.ly/WxXyoqA" target="_blank" />
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-
 
 ### Language Prefrences
 <p align="left">
