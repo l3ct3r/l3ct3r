@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Aayush - aka 🤖 [3ncrypt3db0t](https://3ncrypt3db0t.github.io) 👋 </h1>
+<h1 align="center">Hi there, I'm Aayush - aka  🤖 3ncrypt3db0t 👋 </h1>
 <h3 align="center">I'm an idiot trying to figure out stuff!!</h3>
 
 <p align="center"> 
