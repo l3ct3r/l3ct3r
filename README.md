@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Aayush - aka **3ncrypt3db0t** 👋 </h1>
+<h1 align="center">Hi there, I'm Aayush - aka 🤖 [3ncrypt3db0t](https://3ncrypt3db0t.github.io) 👋 </h1>
 <h3 align="center">I'm an idiot trying to figure out stuff!!</h3>
 
 <p align="center"> 
@@ -12,7 +12,7 @@
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I can explain 🎨 with attic 
 
-<h3 align="left">Talk with me I'm kinda awesome :stuck_out_tongue_closed_eyes: :</h3>
+<h3 align="left">:bell: Talk with me I'm kinda awesome :stuck_out_tongue_closed_eyes: :</h3>
 <p align="left">
 <a href="https://t.me/ID10TIRL" target="blank"><img align="center" src="https://cutt.ly/oxXpN8a" alt="3ncrypt3db0t" height="30" width="40" /></a>
 </p>
@@ -22,7 +22,7 @@
   <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing">
 </p>
 
-### Language and Tools
+###  Language and Tools 
 
 <img align="left" alt="VsCode" width="26px" src="https://kutt.it/QeLoxz" target="_blank" />
 <img align="left" alt="Linux" width="26px" src="https://cutt.ly/axXiSvA" target="_blank" />
