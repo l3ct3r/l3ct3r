@@ -41,10 +41,9 @@
 ### Software and Tools ⏬
 
 <img align="left" alt="VsCode" width="26px" src="https://kutt.it/QeLoxz" target="_blank" />
-<img align="left" alt="Debian" width="26px" src="" target="_blank" />
-<img align="left" alt="RPM" width="26px" src="" target="_blank" />
-
+<img align="left" alt="Debian" width="26px" src="https://cutt.ly/3xNpJVB" target="_blank" />
 <img align="left" alt="RPM" width="26px" src="https://cutt.ly/gxNrtQL" target="_blank" />
+<img align="left" alt="Arch" width="26px" src="https://cutt.ly/wxNp5Mf" target="_blank" />
 <img align="left" alt="Docker" width="26px" src="https://cutt.ly/9xXwTnU" target="_blank" />
 <img align="left" alt="Kubernetes" width="26px" src="https://cutt.ly/oxXwMM8" target="_blank" />
 <img align="left" alt="Ansible" width="26px" src="https://cutt.ly/GxNudzX" target="_blank" />
