@@ -24,23 +24,23 @@
 
 ### Language and Tools
 
-<img align="left" alt="VsCode" width="26px" src="https://cutt.ly/mxZZddV" />
-<img align="left" alt="Linux" width="26px" src="https://cutt.ly/axXiSvA" />
-<img align="left" alt="HTML" width="26px" src="https://cutt.ly/gxZK0xn" />
-<img align="left" alt="CSS" width="26px" src="https://cutt.ly/gxZK4uO" />
-<img align="left" alt="JS" width="26px" src="https://cutt.ly/ZxXyOXD" />
-<img align="left" alt="PHP" width="26px" src="https://cutt.ly/9xXYLIB" />
-<img align="left" alt="MySQL" width="26px" src="https://cutt.ly/yxZLSlx" />
-<img align="left" alt="Firebase" width="26px" src="https://cutt.ly/qxXwfa7" />
-<img align="left" alt="Python" width="26px" src="https://cutt.ly/nxZLKFZ" />
-<img align="left" alt="Django" width="26px" src="https://cutt.ly/WxXqBWa" />
-<img align="left" alt="Flask" width="26px" src="https://cutt.ly/kxXTrqu" />
-<img align="left" alt="Git" width="26px" src="https://cutt.ly/WxXyoqA" />
-<img align="left" alt="Terminal" width="26px" src="https://cutt.ly/JxXRYC8" />
-<img align="left" alt="Docker" width="26px" src="https://cutt.ly/9xXwTnU" />
-<img align="left" alt="Kubernetes" width="26px" src="https://cutt.ly/oxXwMM8" />
-<img align="left" alt="NGNIX" width="26px" src="https://cutt.ly/BxXrv3e" />
-<img align="left" alt="Hugo" width="26px" src="https://cutt.ly/9xXyxcl" />
+<img align="left" alt="VsCode" width="26px" src="https://kutt.it/QeLoxz" href="" />
+<img align="left" alt="Linux" width="26px" src="https://cutt.ly/axXiSvA" href="" />
+<img align="left" alt="HTML" width="26px" src="https://cutt.ly/gxZK0xn" href="" />
+<img align="left" alt="CSS" width="26px" src="https://cutt.ly/gxZK4uO" href="" />
+<img align="left" alt="JS" width="26px" src="https://cutt.ly/ZxXyOXD" href="" />
+<img align="left" alt="PHP" width="26px" src="https://cutt.ly/9xXYLIB" href="" />
+<img align="left" alt="MySQL" width="26px" src="https://cutt.ly/yxZLSlx" href="" />
+<img align="left" alt="Firebase" width="26px" src="https://cutt.ly/qxXwfa7" href="" />
+<img align="left" alt="Python" width="26px" src="https://cutt.ly/nxZLKFZ" href="" />
+<img align="left" alt="Django" width="26px" src="https://cutt.ly/WxXqBWa" href="" />
+<img align="left" alt="Flask" width="26px" src="https://cutt.ly/kxXTrqu" href="" />
+<img align="left" alt="Git" width="26px" src="https://cutt.ly/WxXyoqA" href="" />
+<img align="left" alt="Terminal" width="26px" src="https://cutt.ly/JxXRYC8" href="" />
+<img align="left" alt="Docker" width="26px" src="https://cutt.ly/9xXwTnU" href="" />
+<img align="left" alt="Kubernetes" width="26px" src="https://cutt.ly/oxXwMM8" href="" />
+<img align="left" alt="NGNIX" width="26px" src="https://cutt.ly/BxXrv3e" href="" />
+<img align="left" alt="Hugo" width="26px" src="https://cutt.ly/9xXyxcl" href="" />
 <br/>
 <br/>
 <br/>
