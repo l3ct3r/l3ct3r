@@ -25,7 +25,9 @@
 ###  Language and Tools 
 
 <img align="left" alt="VsCode" width="26px" src="https://kutt.it/QeLoxz" target="_blank" />
-<img align="left" alt="Linux" width="26px" src="https://cutt.ly/axXiSvA" target="_blank" />
+<img align="left" alt="Debian" width="26px" src="https://cutt.ly/wxNrfCb" target="_blank" />
+<img align="left" alt="RPM" width="26px" src="https://cutt.ly/gxNrtQL" target="_blank" />
+<img align="left" alt="Arch" width="26px" src="https://cutt.ly/zxNrOhU" target="_blank" />
 <img align="left" alt="HTML" width="26px" src="https://cutt.ly/gxZK0xn" target="_blank" />
 <img align="left" alt="CSS" width="26px" src="https://cutt.ly/gxZK4uO" target="_blank" />
 <img align="left" alt="JS" width="26px" src="https://cutt.ly/ZxXyOXD" target="_blank" />
