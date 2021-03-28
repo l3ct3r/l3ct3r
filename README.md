@@ -24,8 +24,8 @@
 
 ### Language and Tools
 
-<img align="left" alt="VsCode" width="26px" src="https://kutt.it/QeLoxz" href="" />
-<img align="left" alt="Linux" width="26px" src="https://cutt.ly/axXiSvA" href="" />
+<img align="left" alt="VsCode" width="26px" src="https://kutt.it/QeLoxz" href="https://cutt.ly/0xVWuM6" target="_blank" />
+<img align="left" alt="Linux" width="26px" src="https://cutt.ly/axXiSvA" href="" target="_blank" />
 <img align="left" alt="HTML" width="26px" src="https://cutt.ly/gxZK0xn" href="" />
 <img align="left" alt="CSS" width="26px" src="https://cutt.ly/gxZK4uO" href="" />
 <img align="left" alt="JS" width="26px" src="https://cutt.ly/ZxXyOXD" href="" />
