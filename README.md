@@ -20,6 +20,9 @@
 <a href="https://t.me/ID10TIRL" target="blank"><img align="center" src="https://cutt.ly/oxXpN8a" alt="3ncrypt3db0t" height="30" width="40" /></a>
 </p>
 
+<br/>
+<br/>
+
 ### Spotify Playing 🎧
 <p align="left">
   <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing">
