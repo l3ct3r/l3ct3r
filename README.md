@@ -58,7 +58,7 @@
 <br/>
 <br/>
 
-### Github Badges
+### Github Badge
 <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
 
 ### Language Prefrences
