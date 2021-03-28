@@ -43,6 +43,8 @@
 <img align="left" alt="Kubernetes" width="26px" src="https://cutt.ly/oxXwMM8" target="_blank" />
 <img align="left" alt="NGNIX" width="26px" src="https://cutt.ly/BxXrv3e" target="_blank" />
 <img align="left" alt="Hugo" width="26px" src="https://cutt.ly/9xXyxcl" target="_blank" />
+<img align="left" alt="Vim" width="26px" src="https://cutt.ly/HxNti3t" target="_blank" />
+
 <br/>
 <br/>
 <br/>
