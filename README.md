@@ -22,7 +22,7 @@
   <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing">
 </p>
 
-###  Language and Tools 
+###  Getting my hands dirty with ⤵️ 
 
 <img align="left" alt="VsCode" width="26px" src="https://kutt.it/QeLoxz" target="_blank" />
 <img align="left" alt="Debian" width="26px" src="https://cutt.ly/wxNrfCb" target="_blank" />
