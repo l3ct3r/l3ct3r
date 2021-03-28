@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/48232101/112753870-2d071680-8ff9-11eb-95e4-9a9f2b090f80.png" />
+</h1>
+
 <h1 align="center">Hi there, I'm Aayush - aka  🤖 3ncrypt3db0t 👋 </h1>
 <h3 align="center">I'm an idiot trying to figure out stuff!!</h3>
 
