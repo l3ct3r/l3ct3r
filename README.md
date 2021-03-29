@@ -1,7 +1,10 @@
 ![My-Banner](https://user-images.githubusercontent.com/48232101/112801864-20ce9800-9091-11eb-990e-aef4f5b3444d.gif)
 
 <h1 align="center"> 👋 Hi there, I'm Aayush - aka 3ncrypt3db0t 🤖 </h1>
-<h3 align="center">I'm an idiot trying to figure out stuff!!</h3>
+<h2 align="center">I'm an idiot trying to figure out stuff!!</h2>
+<h3 align="center">😂 Here is a random joke that'll make you laugh!
+  <img src="https://readme-jokes.vercel.app/api">
+</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=3ncrypt3db0t&label=Profile%20views&color=129e00&style=plastic"> 
@@ -14,11 +17,6 @@
 - 🥅 2021 Goals: Being able to contribute more to Open Source projects
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I can explain 🎨 with attic 
-
-
-### 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 
 <h3 align="left">Talk with me, I won't ask for reCAPTCHA  :stuck_out_tongue_closed_eyes: :</h3>
 <p align="left">
