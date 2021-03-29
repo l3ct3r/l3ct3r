@@ -21,6 +21,8 @@
 <a href="https://www.reddit.com/user/3ncrypt3db0t" target="_blank"><img align="center" src="https://cutt.ly/wx0euUf" alt="3ncrypt3db0t" height="30" width="40" /></a>  
 </p>
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### Spotify Playing 🎧
 <p align="left">
