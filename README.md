@@ -1,9 +1,7 @@
 ![My-Banner](https://user-images.githubusercontent.com/48232101/112801864-20ce9800-9091-11eb-990e-aef4f5b3444d.gif)
 
-<h1 align="center"> 👋 Hi there, I'm Aayush - aka 3ncrypt3db0t 🤖 </h1>
+<h1 align="center"> 👋 Hi there, I'm 3ncrypt3db0t 🤖 </h1>
 <h2 align="center">I'm an idiot trying to figure out stuff!!</h2>
-### 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=3ncrypt3db0t&label=Profile%20views&color=129e00&style=plastic"> 
@@ -63,6 +61,9 @@
 
 ### Github Badge
 <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## GitHub Analytics 
 
