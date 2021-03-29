@@ -15,14 +15,16 @@
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I can explain 🎨 with attic 
 
+
+### 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 <h3 align="left">Talk with me, I won't ask for reCAPTCHA  :stuck_out_tongue_closed_eyes: :</h3>
 <p align="left">
 <a href="https://t.me/ID10TIRL" target="_blank"><img align="center" src="https://cutt.ly/oxXpN8a" alt="3ncrypt3db0t" height="30" width="40" /></a>
 <a href="https://reddit.com/user/3ncrypt3db0t" target="_blank"><img align="center" src="https://cutt.ly/wx0euUf" alt="3ncrypt3db0t" height="30" width="40" /></a>  
 </p>
-
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### Spotify Playing 🎧
 <p align="left">
