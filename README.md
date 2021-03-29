@@ -2,9 +2,8 @@
 
 <h1 align="center"> 👋 Hi there, I'm Aayush - aka 3ncrypt3db0t 🤖 </h1>
 <h2 align="center">I'm an idiot trying to figure out stuff!!</h2>
-<h3 align="center">😂 Here is a random joke that'll make you laugh!
-  <img src="https://readme-jokes.vercel.app/api">
-</h3>
+### 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=3ncrypt3db0t&label=Profile%20views&color=129e00&style=plastic"> 
