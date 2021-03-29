@@ -55,6 +55,7 @@
 <img align="left" alt="Hugo" width="26px" src="https://cutt.ly/9xXyxcl" target="_blank" />
 <img align="left" alt="Vim" width="26px" src="https://cutt.ly/BxNtnu9" target="_blank" />
 <img align="left" alt="Git" width="26px" src="https://cutt.ly/WxXyoqA" target="_blank" />
+<img align="left" alt="Bash" width="26px" src="https://cutt.ly/Fx1swHD" target="_blank" />
 
 <br/>
 <br/>
