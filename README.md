@@ -37,7 +37,7 @@
 <img align="left" alt="Firebase" width="26px" src="https://cutt.ly/qxXwfa7" target="_blank" />
 <img align="left" alt="Python" width="26px" src="https://cutt.ly/Cx13hEA" target="_blank" />
 <img align="left" alt="Django" width="26px" src="https://cutt.ly/WxXqBWa" target="_blank" />
-<img align="left" alt="Flask" width="26px" src="https://cutt.ly/6x13Udc" target="_blank" />
+<img align="left" alt="Flask" width="26px" src="https://cutt.ly/wx13Bjd" target="_blank" />
 
 <br/>
 <br/>
