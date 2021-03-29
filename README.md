@@ -62,8 +62,10 @@
 ### Github Badge
 <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
 
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+### 😂 Here is a random joke that'll make you laugh!
+<p align="left">
+  <img src="https://readme-jokes.vercel.app/api">
+</p>
 
 ## GitHub Analytics 
 
