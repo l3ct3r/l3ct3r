@@ -62,10 +62,6 @@
 ### Github Badge
 <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
 
-<p align="left">
-  <img src="https://readme-jokes.vercel.app/api">
-</p>
-
 ## GitHub Analytics 
 
 ### Language Stat
