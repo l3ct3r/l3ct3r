@@ -7,7 +7,7 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=3ncrypt3db0t&label=Profile%20views&color=129e00&style=plastic"> 
 </p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/48232101/112781923-8871ec80-906b-11eb-8960-0e86dec57d13.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/48232101/112781923-8871ec80-906b-11eb-8960-0e86dec57d13.gif">
 
 
 - 👨‍💻 You can also check out my portfolio at [3ncrypt3db0t](https://3ncrypt3db0t.github.io/)
