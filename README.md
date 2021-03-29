@@ -65,14 +65,19 @@
 ### Github Badge
 <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
 
-### Language Prefrences
+## GitHub Analytics 
+
+### Language Stat
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3ncrypt3db0t&show_icons=true&locale=en&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3ncrypt3db0t&show_icons=true&locale=en&layout=compact&theme=algolia">
 </p>
+
+### Language Selection
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=3ncrypt3db0t&layout=compact&langs_count=8&theme=algolia"/>
 
 ### GitHub Stat
 <p align="left">&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=3ncrypt3db0t&show_icons=true&locale=en">
+  <img src="https://github-readme-stats.vercel.app/api?username=3ncrypt3db0t&show_icons=true&locale=en&theme=algolia">
 </p>
 
 
