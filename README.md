@@ -61,7 +61,6 @@
 <img align="left" alt="Bash" width="26px" src="https://cutt.ly/Fx1swHD" target="_blank" />
 <img align="left" alt="Hugo" width="26px" src="https://cutt.ly/wx8FlLy" target="_blank" />
 
-
 <br/>
 <br/>
 
