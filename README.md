@@ -1,6 +1,6 @@
 ![My-Banner](https://user-images.githubusercontent.com/48232101/112801864-20ce9800-9091-11eb-990e-aef4f5b3444d.gif)
 
-<h1 align="center"> 👋 Hi there, I'm 3ncrypt3db0t 🤖 </h1>
+<h1 align="center"> 🙏 Namaste, I'm 3ncrypt3db0t 🤖 </h1>
 <h2 align="center">I'm an idiot trying to figure out stuff!!</h2>
 
 <p align="center"> 
