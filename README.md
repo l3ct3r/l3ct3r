@@ -37,7 +37,7 @@
 ![Debian](https://img.shields.io/badge/Debian-00000F?style=for-the-badge&logo=debian&logoColor=deeppink)
 ![Fedora](https://img.shields.io/badge/Fedora-00000F?style=for-the-badge&logo=fedora&logoColor=skyblue)
 ![Cent](https://img.shields.io/badge/CentOS-00000F?style=for-the-badge&logo=centos&logoColor=lawngreen)
-![Arch]()
+![Manjaro](https://img.shields.io/badge/Manjaro-00000F?style=for-the-badge&logo=manjaro&logoColor=lime)
 ![Windows](https://img.shields.io/badge/Windows-00000F?style=for-the-badge&logo=windows&logoColor=skyblue)
 
 ###  Languages and Frameworks 🚀 
