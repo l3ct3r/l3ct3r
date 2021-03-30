@@ -13,7 +13,6 @@
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/48232101/112782476-d76c5180-906c-11eb-8b47-919033dc4123.gif">
 
 
-- 👨‍💻 You can also check out my portfolio at [3ncrypt3db0t](https://3ncrypt3db0t.github.io/)
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Being able to contribute more to Open Source projects
 - 💬 Ask me about ... Anything
@@ -23,6 +22,7 @@
 <p align="left">
 <a href="https://t.me/ID10TIRL" target="_blank"><img align="center" src="https://cutt.ly/oxXpN8a" alt="3ncrypt3db0t" height="30" width="40" /></a>
 <a href="https://reddit.com/user/3ncrypt3db0t" target="_blank"><img align="center" src="https://cutt.ly/wx0euUf" alt="3ncrypt3db0t" height="30" width="40" /></a>  
+<a href="https://3ncrypt3db0t.github.io/" target="_blank"><img align="center" src="https://cutt.ly/dx8A6Q2" alt="3ncrypt3db0t" height="30" width="40" /></a>
 </p>
 
 ### Spotify Playing 🎧
