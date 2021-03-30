@@ -66,7 +66,8 @@
 <img align="left" alt="Bash" width="26px" src="https://cutt.ly/Fx1swHD" target="_blank" />
 <img align="left" alt="Hugo" width="26px" src="https://cutt.ly/wx8FlLy" target="_blank" />
 <img align="left" alt="LAMP" width="26px" src="https://cutt.ly/lx8XRvL" target="_blank" />
-
+<img align="left" alt="Audacity" width="26px" src="https://cutt.ly/bx8Hf8f" target="_blank" />
+<img align="left" alt="LMMS" width="26px" src="https://cutt.ly/Zx8KUqf" target="_blank" />
 
 <br/>
 <br/>
