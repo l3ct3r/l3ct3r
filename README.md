@@ -54,7 +54,7 @@
 ### Tools 🔥
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Docker](https://img.shields.io/badge/Docker-00000F?style=for-the-badge&logo=docker&logoColor=skyblue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-00000F?style=for-the-badge&logo=kubernetes&logoColor=skyblue)
+![Kubernetes](https://img.shields.io/badge/kubernetes-00000F?style=for-the-badge&logo=kubernetes&logoColor=skyblue)
 ![Git](https://img.shields.io/badge/Git-00000F?style=for-the-badge&logo=git&logoColor=crimson)
 ![GitHub](https://img.shields.io/badge/GitHub-00000F?style=for-the-badge&logo=github&logoColor=white)
 ![Network](https://img.shields.io/badge/TCP%2FIP-00000F?style=for-the-badge&logo=Cisco&logoColor=peachpuff)
