@@ -47,8 +47,6 @@
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
 
-<br/>
-
 ### Tools 🔥
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -57,9 +55,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Network](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 ![VIM](https://img.shields.io/badge/-vim-000?&logo=VIM)
-
-<br/>
-
 
 ## Github Badge
 <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
