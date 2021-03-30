@@ -30,7 +30,8 @@
   <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing">
 </p>
 
-###  Languages and Frameworks ⤵️ 
+## Tech Stacks 
+###  Languages and Frameworks 🚀 
 
 <img align="left" alt="HTML" width="26px" src="https://cutt.ly/gxZK0xn" target="_blank" />
 <img align="left" alt="CSS" width="26px" src="https://cutt.ly/gxZK4uO" target="_blank" />
@@ -45,7 +46,7 @@
 <br/>
 <br/>
 
-### Software and Tools ⏬
+### Software and Tools 🔥
 
 <img align="left" alt="VsCode" width="26px" src="https://kutt.it/QeLoxz" target="_blank" />
 <img align="left" alt="VBox" width="26px" src="https://cutt.ly/Kx8XJ5d" target="_blank" />
