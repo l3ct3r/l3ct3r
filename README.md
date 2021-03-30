@@ -38,9 +38,14 @@
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=blue)
 
 ###  Languages and Frameworks 🚀 
-
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-[!Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![JS](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![MySQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
 
 ### Tools 🔥
 ![VIM](https://img.shields.io/badge/-vim-000?&logo=VIM)
