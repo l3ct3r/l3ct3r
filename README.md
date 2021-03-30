@@ -3,7 +3,7 @@
 <h1 align="center"> 🙏 Namaste, I'm 3ncrypt3db0t 🤖 </h1>
 <h2 align="center">I'm an idiot trying to figure out stuff!!</h2>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/48232101/112933285-42865880-913f-11eb-8a3f-dad723db2834.png" width="40px">
+  <img src="https://user-images.githubusercontent.com/48232101/113013474-75f6d080-919b-11eb-83ed-d8ba2ab775a1.gif" width="40px">
 </p>
 
 
