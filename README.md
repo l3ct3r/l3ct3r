@@ -2,9 +2,9 @@
 
 <h1 align="center"> 🙏 Namaste, I'm 3ncrypt3db0t 🤖 </h1>
 <h2 align="center">I'm an idiot trying to figure out stuff!!</h2>
-<h3 align="center">
-  <img src="https://user-images.githubusercontent.com/48232101/112933285-42865880-913f-11eb-8a3f-dad723db2834.png" width="45px">
-</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48232101/112933285-42865880-913f-11eb-8a3f-dad723db2834.png" width="40px">
+</p>
 
 
 <p align="center"> 
