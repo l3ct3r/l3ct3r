@@ -57,8 +57,14 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-00000F?style=for-the-badge&logo=kubernetes&logoColor=skyblue)
 ![Git](https://img.shields.io/badge/Git-00000F?style=for-the-badge&logo=git&logoColor=crimson)
 ![GitHub](https://img.shields.io/badge/GitHub-00000F?style=for-the-badge&logo=github&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/V_Box-00000F?style=for-the-badge&logo=virtualbox&logoColor=skyblue)
+![Vmware](https://img.shields.io/badge/Vmware-00000F?style=for-the-badge&logo=vmware&logoColor=white)
 ![Network](https://img.shields.io/badge/TCP%2FIP-00000F?style=for-the-badge&logo=Cisco&logoColor=peachpuff)
 ![VIM](https://img.shields.io/badge/VIM-00000F?style=for-the-badge&logo=vim&logoColor=lime)
+
+### Audio Engineering  
+![Audacity](https://img.shields.io/badge/Audacity-00000F?style=for-the-badge&logo=audacity&logoColor=skyblue)
+![LMMS](https://img.shields.io/badge/LMMS-00000F?style=for-the-badge&logo=lmms&logoColor=lime)
 
 ## Github Badge
 <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
