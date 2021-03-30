@@ -51,7 +51,7 @@
 <img align="left" alt="Debian" width="26px" src="https://cutt.ly/3xNpJVB" target="_blank" />
 <img align="left" alt="RPM" width="26px" src="https://cutt.ly/gxNrtQL" target="_blank" />
 <img align="left" alt="Arch" width="26px" src="https://cutt.ly/wxNp5Mf" target="_blank" />
-<img align="left" alt="GNS" width="26px" src="https://cutt.ly/1x8ZYK1" target="_blank" />
+<img align="left" alt="GNS" width="26px" src="https://cutt.ly/4x8Z3lx" target="_blank" />
 <img align="left" alt="CPT" width="26px" src="https://cutt.ly/Ax8ZLIV" target="_blank" />
 <img align="left" alt="Docker" width="26px" src="https://cutt.ly/9xXwTnU" target="_blank" />
 <img align="left" alt="Ansible" width="26px" src="https://cutt.ly/9x8D7nL" target="_blank" />
