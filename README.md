@@ -46,7 +46,7 @@
 ![Flask](https://img.shields.io/badge/FLASK-00000F?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-00000F?style=for-the-badge&logo=django&logoColor=red)
 
-### Database 
+### Database 🗄️
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=firebase&logoColor=yellow)
 ![Mongo](https://img.shields.io/badge/Mongo_DB-00000F?style=for-the-badge&logo=mongodb&logoColor=green)
