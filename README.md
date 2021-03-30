@@ -79,7 +79,7 @@
 
 ### GitHub Stat
 <p align="left">&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=3ncrypt3db0t&show_icons=true&theme=algolia /">
+  <img src="https://github-readme-stats.vercel.app/api?username=3ncrypt3db0t&show_icons=true&theme=algolia"/>
 </p>
 <br/>
 
