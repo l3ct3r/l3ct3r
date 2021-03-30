@@ -54,6 +54,7 @@
 <img align="left" alt="Docker" width="26px" src="https://cutt.ly/9xXwTnU" target="_blank" />
 <img align="left" alt="Ansible" width="26px" src="https://cutt.ly/9x8D7nL" target="_blank" />
 <img align="left" alt="Kubernetes" width="26px" src="https://cutt.ly/oxXwMM8" target="_blank" />
+<img align="left" alt="LAMP" width="26px" src="https://cutt.ly/Fx8JlhQ" target="_blank" />
 <img align="left" alt="NGNIX" width="26px" src="https://cutt.ly/BxXrv3e" target="_blank" />
 <img align="left" alt="Vim" width="26px" src="https://cutt.ly/BxNtnu9" target="_blank" />
 <img align="left" alt="GitHub" width="26px" src="https://cutt.ly/8x8SjrM" target="_blank" />
