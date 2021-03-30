@@ -41,7 +41,7 @@
 ![HTML](https://img.shields.io/badge/HTML-00000F?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS](https://img.shields.io/badge/CSS-00000F?style=for-the-badge&logo=css3&logoColor=blue)
 ![JS](https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=yellow)
-![PHP](https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=Php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=Php&logoColor=lemonchiffon)
 ![Python](https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=Python&logoColor=blueegreen)
 ![Flask](https://img.shields.io/badge/FLASK-00000F?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-00000F?style=for-the-badge&logo=django&logoColor=red)
