@@ -2,6 +2,10 @@
 
 <h1 align="center"> 🙏 Namaste, I'm 3ncrypt3db0t 🤖 </h1>
 <h2 align="center">I'm an idiot trying to figure out stuff!!</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48232101/112933285-42865880-913f-11eb-8a3f-dad723db2834.png" width="26px">
+</p>
+
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=3ncrypt3db0t&label=Profile%20views&color=129e00&style=plastic"> 
@@ -82,11 +86,4 @@
   <img src="https://user-images.githubusercontent.com/48232101/112832877-a95f2f80-90b5-11eb-8955-8945652f11cd.gif">
 </p>
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/48232101/112933285-42865880-913f-11eb-8a3f-dad723db2834.png" width="26px">
-</p>
-
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/48232101/112933914-72822b80-9140-11eb-8bf7-c9f4f24b3b8b.png" width="26px">
-</p>
 
