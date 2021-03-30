@@ -34,8 +34,8 @@
 
 ### OS 💻
 
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=blue)
+![Linux](https://img.shields.io/badge/Linux-00000F?style=for-the-badge&logo=linux&logoColor=gold)
+![Windows](https://img.shields.io/badge/Windows-00000F?style=for-the-badge&logo=windows&logoColor=skyblue)
 
 ###  Languages and Frameworks 🚀 
 ![HTML](https://img.shields.io/badge/HTML-00000F?style=for-the-badge&logo=html5&logoColor=orange)
@@ -49,15 +49,16 @@
 ### Database 
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=firebase&logoColor=yellow)
+![Mongo](https://img.shields.io/badge/Mongo_DB-00000F?style=for-the-badge&logo=mongodb&logoColor=green)
 
 ### Tools 🔥
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kunerbetrs](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Network](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
-![VIM](https://img.shields.io/badge/-vim-000?&logo=VIM)
+![Docker](https://img.shields.io/badge/Docker-00000F?style=for-the-badge&logo=docker&logoColor=skyblue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-00000F?style=for-the-badge&logo=kubernetes&logoColor=skyblue)
+![Git](https://img.shields.io/badge/Git-00000F?style=for-the-badge&logo=git&logoColor=crimson)
+![GitHub](https://img.shields.io/badge/GitHub-00000F?style=for-the-badge&logo=github&logoColor=white)
+![Network](https://img.shields.io/badge/TCP%2FIP-00000F?style=for-the-badge&logo=Cisco&logoColor=peachpuff)
+![VIM](https://img.shields.io/badge/VIM-00000F?style=for-the-badge&logo=vim&logoColor=lime)
 
 ## Github Badge
 <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
