@@ -38,17 +38,20 @@
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=blue)
 
 ###  Languages and Frameworks 🚀 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![JS](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-![MySQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+![HTML](https://img.shields.io/badge/HTML-00000F?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS](https://img.shields.io/badge/CSS-00000F?style=for-the-badge&logo=css3&logoColor=blue)
+![JS](https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=yellow)
+![PHP](https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=Php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=Python&logoColor=blueegreen)
+![Flask](https://img.shields.io/badge/FLASK-00000F?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-00000F?style=for-the-badge&logo=django&logoColor=red)
+
+### Database 
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=firebase&logoColor=yellow)
 
 ### Tools 🔥
-![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kunerbetrs](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
