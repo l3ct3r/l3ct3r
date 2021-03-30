@@ -30,46 +30,27 @@
   <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing">
 </p>
 
-## Tech Stacks 
+## ⚡ Tech Stack 
+
+### OS 💻
+
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=blue)
+
 ###  Languages and Frameworks 🚀 
 
-<img align="left" alt="HTML" width="26px" src="https://cutt.ly/gxZK0xn" target="_blank" />
-<img align="left" alt="CSS" width="26px" src="https://cutt.ly/gxZK4uO" target="_blank" />
-<img align="left" alt="JS" width="26px" src="https://cutt.ly/ZxXyOXD" target="_blank" />
-<img align="left" alt="PHP" width="26px" src="https://cutt.ly/9xXYLIB" target="_blank" />
-<img align="left" alt="MySQL" width="26px" src="https://cutt.ly/zx18LUJ" target="_blank" />
-<img align="left" alt="Python" width="26px" src="https://cutt.ly/Cx13hEA" target="_blank" />
-<img align="left" alt="Django" width="26px" src="https://cutt.ly/WxXqBWa" target="_blank" />
-<img align="left" alt="Flask" width="26px" src="https://cutt.ly/Kx18cUD" target="_blank" />
-<img align="left" alt="Turtle" width="26px" src="https://cutt.ly/Hx8F5CT" target="_blank" />
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+[!Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+
+### Tools 🔥
+![VIM](https://img.shields.io/badge/-vim-000?&logo=VIM)
 
 <br/>
 <br/>
 
-### Software and Tools 🔥
+ 
 
-<img align="left" alt="VsCode" width="26px" src="https://kutt.it/QeLoxz" target="_blank" />
-<img align="left" alt="VBox" width="26px" src="https://cutt.ly/Kx8XJ5d" target="_blank" />
-<img align="left" alt="VMWare" width="26px" src="https://cutt.ly/xx8XpvW" target="_blank" />
-<img align="left" alt="HyperV" width="26px" src="https://cutt.ly/zx8Cut4" target="_blank" />
-<img align="left" alt="Debian" width="26px" src="https://cutt.ly/3xNpJVB" target="_blank" />
-<img align="left" alt="RPM" width="26px" src="https://cutt.ly/gxNrtQL" target="_blank" />
-<img align="left" alt="Arch" width="26px" src="https://cutt.ly/wxNp5Mf" target="_blank" />
-<img align="left" alt="GNS" width="26px" src="https://cutt.ly/4x8Z3lx" target="_blank" />
-<img align="left" alt="CPT" width="26px" src="https://cutt.ly/Ax8ZLIV" target="_blank" />
-<img align="left" alt="Docker" width="26px" src="https://cutt.ly/9xXwTnU" target="_blank" />
-<img align="left" alt="Ansible" width="26px" src="https://cutt.ly/9x8D7nL" target="_blank" />
-<img align="left" alt="Kubernetes" width="26px" src="https://cutt.ly/oxXwMM8" target="_blank" />
-<img align="left" alt="NGNIX" width="26px" src="https://cutt.ly/BxXrv3e" target="_blank" />
-<img align="left" alt="Vim" width="26px" src="https://cutt.ly/BxNtnu9" target="_blank" />
-<img align="left" alt="Git" width="26px" src="https://cutt.ly/8x8K8x4" target="_blank" />
-<img align="left" alt="GitHub" width="26px" src="https://cutt.ly/8x8SjrM" target="_blank" />
-<img align="left" alt="Bash" width="26px" src="https://cutt.ly/Fx1swHD" target="_blank" />
-
-<br/>
-<br/>
-
-### Github Badge
+## Github Badge
 <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
 
 ## GitHub Analytics 
