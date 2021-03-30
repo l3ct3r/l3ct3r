@@ -53,6 +53,7 @@
 
 ### Database 🗄️
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Sqlite](https://img.shields.io/badge/SQLITE-00000F?style=for-the-badge&logo=sqlite&logoColor=azure)
 ![Firebase](https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=firebase&logoColor=yellow)
 ![Mongo](https://img.shields.io/badge/Mongo_DB-00000F?style=for-the-badge&logo=mongodb&logoColor=green)
 
