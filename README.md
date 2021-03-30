@@ -40,6 +40,7 @@
 <img align="left" alt="Python" width="26px" src="https://cutt.ly/Cx13hEA" target="_blank" />
 <img align="left" alt="Django" width="26px" src="https://cutt.ly/WxXqBWa" target="_blank" />
 <img align="left" alt="Flask" width="26px" src="https://cutt.ly/Kx18cUD" target="_blank" />
+<img align="left" alt="Turtle" width="26px" src="https://cutt.ly/Hx8F5CT" target="_blank" />
 
 <br/>
 <br/>
