@@ -70,10 +70,12 @@
 ![Nginx](https://img.shields.io/badge/NGINX-00000F?style=for-the-badge&logo=nginx&logoColor=limegreen)
 ![Vmware](https://img.shields.io/badge/Vmware-00000F?style=for-the-badge&logo=vmware&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-00000F?style=for-the-badge&logo=heroku&logoColor=lightpink)
+![Atom](https://img.shields.io/badge/Atom-00000F?style=for-the-badge&logo=atom&logoColor=lightblue)
 ![Hugo](https://img.shields.io/badge/Hugo-00000F?style=for-the-badge&logo=hugo&logoColor=violet)
 ![Netlify](https://img.shields.io/badge/Netlify-00000F?style=for-the-badge&logo=netlify&logoColor=palegreen)
 ![Network](https://img.shields.io/badge/TCP%2FIP-00000F?style=for-the-badge&logo=Cisco&logoColor=peachpuff)
 ![VIM](https://img.shields.io/badge/VIM-00000F?style=for-the-badge&logo=vim&logoColor=lime)
+![MD](https://img.shields.io/badge/Markdown-00000F?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### DAW 🔊 
 ![Audacity](https://img.shields.io/badge/Audacity-00000F?style=for-the-badge&logo=audacity&logoColor=skyblue)
