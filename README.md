@@ -66,7 +66,7 @@
 ![Network](https://img.shields.io/badge/TCP%2FIP-00000F?style=for-the-badge&logo=Cisco&logoColor=peachpuff)
 ![VIM](https://img.shields.io/badge/VIM-00000F?style=for-the-badge&logo=vim&logoColor=lime)
 
-### Audio Engineering  
+### DAW 🔊 
 ![Audacity](https://img.shields.io/badge/Audacity-00000F?style=for-the-badge&logo=audacity&logoColor=skyblue)
 ![LMMS](https://img.shields.io/badge/LMMS-00000F?style=for-the-badge&logo=lmms&logoColor=lime)
 
