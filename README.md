@@ -61,7 +61,6 @@
 <img align="left" alt="Kubernetes" width="26px" src="https://cutt.ly/oxXwMM8" target="_blank" />
 <img align="left" alt="NGNIX" width="26px" src="https://cutt.ly/BxXrv3e" target="_blank" />
 <img align="left" alt="Vim" width="26px" src="https://cutt.ly/BxNtnu9" target="_blank" />
-<img align="left" alt="Tex" width="26px" src="https://cutt.ly/ex8VpOC" target="_blank" />
 <img align="left" alt="Git" width="26px" src="https://cutt.ly/8x8K8x4" target="_blank" />
 <img align="left" alt="GitHub" width="26px" src="https://cutt.ly/8x8SjrM" target="_blank" />
 <img align="left" alt="MarkDown" width="26px" src="https://cutt.ly/Ix8CJFU" target="_blank" />
