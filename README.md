@@ -37,7 +37,6 @@
 ![Debian](https://img.shields.io/badge/Debian-00000F?style=for-the-badge&logo=debian&logoColor=deeppink)
 ![Fedora](https://img.shields.io/badge/Fedora-00000F?style=for-the-badge&logo=fedora&logoColor=skyblue)
 ![Arch](https://img.shields.io/badge/Arch-00000F?style=for-the-badge&logo=linux&logoColor=lawngreen)
-![Gentoo](https://img.shields.io/badge/Gentoo-00000F?style=for-the-badge&logo=gentoo&logoColor=lightblue)
 ![Cent](https://img.shields.io/badge/CentOS-00000F?style=for-the-badge&logo=centos&logoColor=lawngreen)
 ![Windows](https://img.shields.io/badge/Windows-00000F?style=for-the-badge&logo=windows&logoColor=skyblue)
 
@@ -49,6 +48,7 @@
 ![Python](https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=Python&logoColor=blueegreen)
 ![Flask](https://img.shields.io/badge/FLASK-00000F?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-00000F?style=for-the-badge&logo=django&logoColor=red)
+![C](https://img.shields.io/badge/-00000F?style=for-the-badge&logo=c&logoColor=red)
 
 ### Database 🗄️
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
