@@ -81,3 +81,7 @@
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/48232101/112832877-a95f2f80-90b5-11eb-8955-8945652f11cd.gif">
 </p>
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/48232101/112933285-42865880-913f-11eb-8a3f-dad723db2834.png" width="26px">
+</p>
