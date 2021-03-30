@@ -48,6 +48,7 @@
 ### Software and Tools ⏬
 
 <img align="left" alt="VsCode" width="26px" src="https://kutt.it/QeLoxz" target="_blank" />
+<img align="left" alt="VMWare" width="26px" src="https://cutt.ly/xx8XpvW" target="_blank" />
 <img align="left" alt="Debian" width="26px" src="https://cutt.ly/3xNpJVB" target="_blank" />
 <img align="left" alt="RPM" width="26px" src="https://cutt.ly/gxNrtQL" target="_blank" />
 <img align="left" alt="Arch" width="26px" src="https://cutt.ly/wxNp5Mf" target="_blank" />
