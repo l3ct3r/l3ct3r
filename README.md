@@ -46,6 +46,7 @@
 ![CSS](https://img.shields.io/badge/CSS-00000F?style=for-the-badge&logo=css3&logoColor=blue)
 ![JS](https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![React](https://img.shields.io/badge/REACT-00000F?style=for-the-badge&logo=react&logoColor=skyblue)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=Php&logoColor=lemonchiffon)
 ![Python](https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=Python&logoColor=blueegreen)
 ![Flask](https://img.shields.io/badge/FLASK-00000F?style=for-the-badge&logo=flask&logoColor=white)
