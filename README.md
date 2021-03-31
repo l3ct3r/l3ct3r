@@ -79,7 +79,7 @@
 ![VIM](https://img.shields.io/badge/VIM-00000F?style=for-the-badge&logo=vim&logoColor=lime)
 ![MD](https://img.shields.io/badge/Markdown-00000F?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Audio 
+### Audio 🎶
 ![Spotify](https://img.shields.io/badge/Spotify-00000F?style=for-the-badge&logo=spotify&logoColor=lime)
 ![Audacity](https://img.shields.io/badge/Audacity-00000F?style=for-the-badge&logo=audacity&logoColor=skyblue)
 ![Deezer](https://img.shields.io/badge/Deezer-00000F?style=for-the-badge&logo=deezer&logoColor=lightyellow)
