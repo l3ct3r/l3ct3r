@@ -92,7 +92,7 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=3ncrypt3db0t&layout=compact&langs_count=8&theme=algolia"/>
 
 ### GitHub Stat
-<p align="left">&nbsp;
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=3ncrypt3db0t&show_icons=true&theme=algolia"/>
 </p>
 <br/>
