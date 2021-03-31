@@ -1,6 +1,5 @@
 ![Banner](https://user-images.githubusercontent.com/48232101/113093982-a298ff80-9210-11eb-963b-5027b9716588.gif)
 
-
 <h1 align="center"> 🙏 Namaste, I'm 3ncrypt3db0t 🤖 </h1>
 <h2 align="center">I'm an idiot trying to figure out stuff!!</h2>
 <p align="center">
@@ -39,6 +38,7 @@
 ![Fedora](https://img.shields.io/badge/Fedora-00000F?style=for-the-badge&logo=fedora&logoColor=skyblue)
 ![Arch](https://img.shields.io/badge/Arch-00000F?style=for-the-badge&logo=linux&logoColor=lawngreen)
 ![Cent](https://img.shields.io/badge/CentOS-00000F?style=for-the-badge&logo=centos&logoColor=lawngreen)
+![FBSD](https://img.shields.io/badge/FreeBSD-00000F?style=for-the-badge&logo=freebsd&logoColor=crimson)
 ![Windows](https://img.shields.io/badge/Windows-00000F?style=for-the-badge&logo=windows&logoColor=skyblue)
 
 ###  Languages and Frameworks 🚀 
