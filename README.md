@@ -78,10 +78,6 @@
 ![VIM](https://img.shields.io/badge/VIM-00000F?style=for-the-badge&logo=vim&logoColor=lime)
 ![MD](https://img.shields.io/badge/Markdown-00000F?style=for-the-badge&logo=markdown&logoColor=white)
 
-### DAW 🔊 
-![Audacity](https://img.shields.io/badge/Audacity-00000F?style=for-the-badge&logo=audacity&logoColor=skyblue)
-![LMMS](https://img.shields.io/badge/LMMS-00000F?style=for-the-badge&logo=lmms&logoColor=lime)
-
 ## Github Badge
 <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
 
