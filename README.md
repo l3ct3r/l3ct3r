@@ -98,7 +98,7 @@
 ## Github Badge 🏅
 <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://user-images.githubusercontent.com/48232101/113098117-c57ae200-9217-11eb-85a1-97e6011b78bf.gif" width="40" height="40"></a> 
 
-## GitHub Analytics 
+## GitHub Analytics 🔎
 
 ### Language Stat
 <p align="left">
