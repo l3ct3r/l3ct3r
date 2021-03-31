@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://t.me/ID10TIRL" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-00000F?style=for-the-badge&logo=telegram&logoColor=skyblue"> </a>
 <a href="https://reddit.com/user/3ncrypt3db0t" target="_blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>  
-<a href="neupane_psyched@outlook.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<a href="neupane_psyched@outlook.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </p>
 
 ### Spotify Playing 🎧
