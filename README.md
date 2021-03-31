@@ -88,10 +88,11 @@
 ![LMMS](https://img.shields.io/badge/LMMS-00000F?style=for-the-badge&logo=lmms&logoColor=lime)
 
 ### Workspace 
-![Y520](https://img.shields.io/badge/Windows-Lenovo_Legion_Y_520-0078D6?style=for-the-badge&logo=lenovo&logoColor=white)
+![Y520](https://img.shields.io/badge/Windows-Lenovo_Legion_Y_520-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![XPS13](https://img.shields.io/badge/Linux-XPS_13-0078D6?style=for-the-badge&logo=linux&logoColor=orange)
 ![AZB13](https://img.shields.io/badge/Free_BSD-Asus_Zenbook_13-0078D6?style=for-the-badge&logo=freebsd&logoColor=crimson)
-![AEBB9]()
+![AEBB9](https://img.shields.io/badge/Arch-Asus_Expertbook_B9-0078D6?style=for-the-badge&logo=arch-linux&logoColor=white)
+![M1](https://img.shields.io/badge/Apple-MacBook_Air_M1-999999?style=for-the-badge&logo=apple&logoColor=white)
 ## Github Badge
 <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://user-images.githubusercontent.com/48232101/113098117-c57ae200-9217-11eb-85a1-97e6011b78bf.gif" width="40" height="40"></a> 
 
