@@ -70,6 +70,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-00000F?style=for-the-badge&logo=github&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/V_Box-00000F?style=for-the-badge&logo=virtualbox&logoColor=skyblue)
 ![LAMP](https://img.shields.io/badge/XAMPP-00000F?style=for-the-badge&logo=xampp&logoColor=orange)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Nginx](https://img.shields.io/badge/NGINX-00000F?style=for-the-badge&logo=nginx&logoColor=limegreen)
 ![Vmware](https://img.shields.io/badge/Vmware-00000F?style=for-the-badge&logo=vmware&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-00000F?style=for-the-badge&logo=heroku&logoColor=lightpink)
