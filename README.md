@@ -35,7 +35,7 @@
 
 ![Debian](https://img.shields.io/badge/Debian-00000F?style=for-the-badge&logo=debian&logoColor=deeppink)
 ![Fedora](https://img.shields.io/badge/Fedora-00000F?style=for-the-badge&logo=fedora&logoColor=skyblue)
-![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch-000000?style=for-the-badge&logo=arch-linux&logoColor=cyan)
 ![Cent](https://img.shields.io/badge/Cent_Os-000000?style=for-the-badge&logo=centos&logoColor=lime)
 ![FBSD](https://img.shields.io/badge/FreeBSD-00000F?style=for-the-badge&logo=freebsd&logoColor=crimson)
 ![Windows](https://img.shields.io/badge/Windows-00000F?style=for-the-badge&logo=windows&logoColor=skyblue)
