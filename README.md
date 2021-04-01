@@ -90,7 +90,7 @@
 
 ### Workspace 💻
 ![Y520](https://img.shields.io/badge/Windows-Lenovo_Legion_Y_520-000000?style=for-the-badge&logo=windows&logoColor=blue)
-![XPS13](https://img.shields.io/badge/Linux-XPS_13-f0e68c?style=for-the-badge&logo=debian&logoColor=deeppink)
+![XPS13](https://img.shields.io/badge/Debian-XPS_13-f0e68c?style=for-the-badge&logo=debian&logoColor=pink)
 ![AZB13](https://img.shields.io/badge/Free_BSD-Asus_Zenbook_13-ffa07a?style=for-the-badge&logo=freebsd&logoColor=crimson)
 ![AEBB9](https://img.shields.io/badge/Arch-Asus_Expertbook_B9-4682b4?style=for-the-badge&logo=arch-linux&logoColor=skyblue)
 ![M1](https://img.shields.io/badge/Apple-MacBook_Air_M1-999999?style=for-the-badge&logo=apple&logoColor=silver)
