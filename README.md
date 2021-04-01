@@ -89,7 +89,7 @@
 ![LMMS](https://img.shields.io/badge/LMMS-00000F?style=for-the-badge&logo=lmms&logoColor=lime)
 
 ### Workspace 💻
-![Y520](https://img.shields.io/badge/Windows-Lenovo_Legion_Y_520-000000?style=for-the-badge&logo=windows&logoColor=blue)
+![Y520](https://img.shields.io/badge/Windows-Lenovo_Legion_Y_520-000000?style=for-the-badge&logo=windows&logoColor=cyan)
 ![XPS13](https://img.shields.io/badge/Debian-XPS_13-f0e68c?style=for-the-badge&logo=debian&logoColor=fuchsia)
 ![TPX1C](https://img.shields.io/badge/Fedora-Thinkpad_X1_Carbon-teal?style=for-the-badge&logo=fedora&logoColor=skyblue)
 ![AZB13](https://img.shields.io/badge/Free_BSD-Asus_Zenbook_13-ffa07a?style=for-the-badge&logo=freebsd&logoColor=crimson)
