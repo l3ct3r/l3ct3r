@@ -39,7 +39,6 @@
 ![Cent](https://img.shields.io/badge/CentOS-00000F?style=for-the-badge&logo=centos&logoColor=lawngreen)
 ![FBSD](https://img.shields.io/badge/FreeBSD-00000F?style=for-the-badge&logo=freebsd&logoColor=crimson)
 ![Windows](https://img.shields.io/badge/Windows-00000F?style=for-the-badge&logo=windows&logoColor=skyblue)
-![Apple](https://img.shields.io/badge/Apple-00000F?style=for-the-badge&logo=apple&logoColor=silver)
 
 ###  Languages and Frameworks 🚀 
 ![HTML](https://img.shields.io/badge/HTML-00000F?style=for-the-badge&logo=html5&logoColor=orange)
@@ -81,20 +80,6 @@
 ![Network](https://img.shields.io/badge/TCP%2FIP-00000F?style=for-the-badge&logo=Cisco&logoColor=peachpuff)
 ![VIM](https://img.shields.io/badge/VIM-00000F?style=for-the-badge&logo=vim&logoColor=lime)
 ![MD](https://img.shields.io/badge/Markdown-00000F?style=for-the-badge&logo=markdown&logoColor=white)
-
-### Audio 🎶
-![Spotify](https://img.shields.io/badge/Spotify-00000F?style=for-the-badge&logo=spotify&logoColor=lime)
-![Audacity](https://img.shields.io/badge/Audacity-00000F?style=for-the-badge&logo=audacity&logoColor=skyblue)
-![Deezer](https://img.shields.io/badge/Deezer-00000F?style=for-the-badge&logo=deezer&logoColor=lightyellow)
-![LMMS](https://img.shields.io/badge/LMMS-00000F?style=for-the-badge&logo=lmms&logoColor=lime)
-
-### Workspace 💻
-![Y520](https://img.shields.io/badge/Windows-Lenovo_Legion_Y_520-000000?style=for-the-badge&logo=windows&logoColor=deepskyblue)
-![XPS13](https://img.shields.io/badge/Debian-XPS_13-f0e68c?style=for-the-badge&logo=debian&logoColor=fuchsia)
-![TPX1C](https://img.shields.io/badge/Fedora-Thinkpad_X1_Carbon-teal?style=for-the-badge&logo=fedora&logoColor=skyblue)
-![AZB13](https://img.shields.io/badge/Free_BSD-Asus_Zenbook_13-ffa07a?style=for-the-badge&logo=freebsd&logoColor=crimson)
-![AEBB9](https://img.shields.io/badge/Arch-Asus_Expertbook_B9-4682b4?style=for-the-badge&logo=arch-linux&logoColor=aqua)
-![M1](https://img.shields.io/badge/Apple-MacBook_Air_M1-999999?style=for-the-badge&logo=apple&logoColor=silver)
 
 ## Github Badge 🏅
 <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://user-images.githubusercontent.com/48232101/113098117-c57ae200-9217-11eb-85a1-97e6011b78bf.gif" width="40" height="40"></a> 
