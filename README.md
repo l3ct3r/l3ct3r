@@ -15,7 +15,7 @@
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/48232101/112782476-d76c5180-906c-11eb-8b47-919033dc4123.gif">
 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 📝
 - 🥅 2021 Goals: Being able to contribute more to Open Source projects
 - 💬 Ask me about ... Anything
 - 😅 Fun Fact: I don't write code but I do follow code 😁
