@@ -3,6 +3,7 @@
 
 <h1 align="center"> 🙏 Namaste, I'm 3ncrypt3db0t 🤖 </h1>
 <h2 align="center">I'm an idiot trying to figure out stuff!!</h2>
+<h3 align="center">I'm not a Coder (Code Dysgraphia) ☺️ </h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48232101/113013474-75f6d080-919b-11eb-83ed-d8ba2ab775a1.gif" width="40px">
 </p>
@@ -17,7 +18,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Being able to contribute more to Open Source projects
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: I can explain 🎨 with attic 
+- 😅 Fun Fact: I don't write code but I do follow code 😁
 
 <h3 align="left"> 📱 Talk with me, I won't ask for reCAPTCHA  :stuck_out_tongue_closed_eyes: :</h3>
 <p align="left">
