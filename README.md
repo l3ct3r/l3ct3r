@@ -52,7 +52,6 @@
 ![Python](https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=Python&logoColor=blueegreen)
 ![Flask](https://img.shields.io/badge/FLASK-00000F?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-00000F?style=for-the-badge&logo=django&logoColor=red)
-![C](https://img.shields.io/badge/-00000F?style=for-the-badge&logo=c&logoColor=red)
 
 ### Database 🗄️
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
