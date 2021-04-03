@@ -31,6 +31,10 @@
   <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing">
 </p>
 
+### 🤓 My values
+🍏 Beginner's mindset and curiosity
+🙌 Sharing anything I learned
+
 ## ⚡ Tech Stack 
 Here are a few things I've picked up along my learning journey.
 
