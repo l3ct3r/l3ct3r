@@ -66,8 +66,8 @@ Here are a few things I've picked up along my learning journey.
 ![Mongo](https://img.shields.io/badge/Mongo_DB-00000F?style=for-the-badge&logo=mongodb&logoColor=green)
 
 ### Tools 🔥
-![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Docker](https://img.shields.io/badge/Docker-00000F?style=for-the-badge&logo=docker&logoColor=skyblue)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-00000F?style=for-the-badge&logo=ansible&logoColor=silver)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-00000F?style=for-the-badge&logo=kubernetes&logoColor=skyblue)
 ![Git](https://img.shields.io/badge/Git-00000F?style=for-the-badge&logo=git&logoColor=crimson)
