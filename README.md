@@ -83,7 +83,7 @@ Here are a few things I've picked up along my learning journey.
 ![Atom](https://img.shields.io/badge/Atom-00000F?style=for-the-badge&logo=atom&logoColor=lightblue)
 ![Hugo](https://img.shields.io/badge/Hugo-00000F?style=for-the-badge&logo=hugo&logoColor=violet)
 ![Netlify](https://img.shields.io/badge/Netlify-00000F?style=for-the-badge&logo=netlify&logoColor=palegreen)
-![Network](https://img.shields.io/badge/TCP%2FIP-00000F?style=for-the-badge&logo=Cisco&logoColor=peachpuff)
+![Network](https://img.shields.io/badge/PT-00000F?style=for-the-badge&logo=Cisco&logoColor=peachpuff)
 ![VIM](https://img.shields.io/badge/VIM-00000F?style=for-the-badge&logo=vim&logoColor=lime)
 ![MD](https://img.shields.io/badge/Markdown-00000F?style=for-the-badge&logo=markdown&logoColor=white)
 
