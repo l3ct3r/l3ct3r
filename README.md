@@ -60,10 +60,10 @@ Here are a few things I've picked up along my learning journey.
 
 ### Database 🗄️
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgresql-00000F?style=for-the-badge&logo=postgresql&logoColor=skyblue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/SQLITE-00000F?style=for-the-badge&logo=sqlite&logoColor=azure)
-![Firebase](https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=firebase&logoColor=yellow)
-![Mongo](https://img.shields.io/badge/Mongo_DB-00000F?style=for-the-badge&logo=mongodb&logoColor=green)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
+![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools 🔥
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -72,7 +72,7 @@ Here are a few things I've picked up along my learning journey.
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-663399?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PSH](https://img.shields.io/badge/Powershell-add8e6?style=for-the-badge&logo=powershell&logoColor=mediumblue)
-![GitHub](https://img.shields.io/badge/Github-ffffff?style=for-the-badge&logo=github&logoColor=000000)
+![GitHub](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=ffffff)
 ![VirtualBox](https://img.shields.io/badge/V_Box-00000F?style=for-the-badge&logo=virtualbox&logoColor=skyblue)
 ![LAMP](https://img.shields.io/badge/XAMPP-00000F?style=for-the-badge&logo=xampp&logoColor=orange)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-00000F?style=for-the-badge&logo=google-cloud&logoColor=blue)
