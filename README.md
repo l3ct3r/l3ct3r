@@ -26,13 +26,12 @@
 <a href="https://reddit.com/user/3ncrypt3db0t" target="_blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>  
 </p>
 
-### 🎧 Spotify Playing 
+### Spotify Playing 🎧 
 <p align="left">
   <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing">
 </p>
 
-### 🎞 Learning Platform
-Things I've learnt mostly from followling platform. 
+### Learning Platform 🎞
 
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-blue?style=for-the-badge&logo=coursera&logoColor=white)
@@ -41,8 +40,6 @@ Things I've learnt mostly from followling platform.
 ![EdX](https://img.shields.io/badge/EdX-black?style=for-the-badge&logo=edx&logoColor=white)
 ![PluralSight](https://img.shields.io/badge/Pluralsight-crimson?style=for-the-badge&logo=pluralsight&logoColor=white)
 ![KA](https://img.shields.io/badge/Khan_Academy-808080?style=for-the-badge&logo=khan-academy&logoColor=7fffd4)
-
-
 
 ### 🤓 My values
 - 🍏 Beginner's mindset and curiosity
