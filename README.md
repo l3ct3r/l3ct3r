@@ -32,8 +32,8 @@
 </p>
 
 ### 🤓 My values
-🍏 Beginner's mindset and curiosity
-🙌 Sharing anything I learned
+- 🍏 Beginner's mindset and curiosity
+- 🙌 Sharing anything I learned
 
 ## ⚡ Tech Stack 
 Here are a few things I've picked up along my learning journey.
