@@ -31,6 +31,14 @@
   <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing">
 </p>
 
+### Learning Platform 
+![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-blue?style=for-the-badge&logo=coursera&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-FF0000?style=for-the-badge&logo=udemy&logoColor=white)
+![Udacity](https://img.shields.io/badge/Udacity-blue?style=for-the-badge&logo=udacity&logoColor=white)
+![EdX](https://img.shields.io/badge/EdX-black?style=for-the-badge&logo=edx&logoColor=white)
+
+
 ### 🤓 My values
 - 🍏 Beginner's mindset and curiosity
 - 🙌 Sharing anything I learned
