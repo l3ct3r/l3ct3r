@@ -71,7 +71,7 @@ Here are a few things I've picked up along my learning journey.
 ![Ansible](https://img.shields.io/badge/Ansible-00000F?style=for-the-badge&logo=ansible&logoColor=silver)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-663399?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PSH](https://img.shields.io/badge/Powershell-00000F?style=for-the-badge&logo=powershell&logoColor=aqua)
+![PSH](https://img.shields.io/badge/Powershell-add8e6?style=for-the-badge&logo=powershell&logoColor=mediumblue)
 ![GitHub](https://img.shields.io/badge/GitHub-00000F?style=for-the-badge&logo=github&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/V_Box-00000F?style=for-the-badge&logo=virtualbox&logoColor=skyblue)
 ![LAMP](https://img.shields.io/badge/XAMPP-00000F?style=for-the-badge&logo=xampp&logoColor=orange)
