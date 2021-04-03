@@ -10,7 +10,7 @@
 
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=3ncrypt3db0t&label=Profile%20views&color=129e00&style=for-the-badge"> 
+  <img src="https://komarev.com/ghpvc/?username=3ncrypt3db0t&label=Visitors&color=d2691e&style=for-the-badge"> 
 </p>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/48232101/112782476-d76c5180-906c-11eb-8b47-919033dc4123.gif">
 
@@ -32,6 +32,7 @@
 </p>
 
 ## ⚡ Tech Stack 
+Here are a few things I've picked up along my learning journey.
 
 ### OS 💻
 
