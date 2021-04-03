@@ -84,7 +84,7 @@ Here are a few things I've picked up along my learning journey.
 ![Hugo](https://img.shields.io/badge/Hugo-00000F?style=for-the-badge&logo=hugo&logoColor=violet)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Network](https://img.shields.io/badge/PT-00000F?style=for-the-badge&logo=Cisco&logoColor=peachpuff)
-![VIM](https://img.shields.io/badge/VIM-00000F?style=for-the-badge&logo=vim&logoColor=lime)
+![VIM](https://img.shields.io/badge/VIM-lawngreen?style=for-the-badge&logo=vim&logoColor=00000F)
 ![MD](https://img.shields.io/badge/Markdown-00000F?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## Github Badge 🏅
