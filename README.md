@@ -42,7 +42,7 @@
 ![KA](https://img.shields.io/badge/Khan_Academy-808080?style=for-the-badge&logo=khan-academy&logoColor=7fffd4)
 
 ### 🤓 My values
-- 🍏 Beginner's mindset and curiosity
+- 🍏 Beginner's mindset and curiosity 
 - 🙌 Sharing anything I learned
 
 ## ⚡ Tech Stack 
