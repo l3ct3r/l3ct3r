@@ -114,7 +114,6 @@ Here are a few things I've picked up along my learning journey.
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=3ncrypt3db0t&show_icons=true&theme=algolia"/>
 </p>
-<br/>
 
 ### GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=3ncrypt3db0t&theme=ads-juicy-fresh&dates=F2FF07)](https://git.io/streak-stats)
