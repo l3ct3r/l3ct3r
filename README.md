@@ -119,7 +119,7 @@ Here are a few things I've picked up along my learning journey.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=3ncrypt3db0t&theme=ads-juicy-fresh&dates=F2FF07)](https://git.io/streak-stats)
 
 ### GitHub Trophy 🏆
-![Trophy]()
+![Trophy](https://github-profile-trophy.vercel.app/?username=3ncrypt3db0t&theme=juicyfresh)
 
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/48232101/112832877-a95f2f80-90b5-11eb-8955-8945652f11cd.gif">
