@@ -109,11 +109,11 @@ Here are a few things I've picked up along my learning journey.
 
 ### GitHub Stat
 <p align="left">
-  <img src=""/>
+  <img src="https://github-contribution-stats.vercel.app/api/?username=3ncrypt3db0t&layout=compact"/>
 </p>
 
 ### GitHub Streak
-[![GitHub Streak]()
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=3ncrypt3db0t&theme=react)
 
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/48232101/112832877-a95f2f80-90b5-11eb-8955-8945652f11cd.gif">
