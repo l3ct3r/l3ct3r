@@ -104,11 +104,8 @@ Here are a few things I've picked up along my learning journey.
 
 ### Language Stat
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ncrypt3db0t&langs_count=5&theme=monokai">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ncrypt3db0t&langs_count=10&theme=monokai">
 </p>
-
-### Language Selection
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=3ncrypt3db0t&layout=compact&langs_count=8&theme=algolia"/>
 
 ### GitHub Stat
 <p align="left">
