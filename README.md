@@ -113,10 +113,10 @@ Here are a few things I've picked up along my learning journey.
 </p>
 
 ### GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=3ncrypt3db0t&theme=react)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=3ncrypt3db0t&theme=react)
 
 ### GitHub Trophy 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=3ncrypt3db0t&margin-w=15&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=3ncrypt3db0t&margin-w=15&theme=gruvbox)] 
 
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/48232101/112832877-a95f2f80-90b5-11eb-8955-8945652f11cd.gif">
