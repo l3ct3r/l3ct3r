@@ -90,7 +90,6 @@ Here are a few things I've picked up along my learning journey.
 ![Nginx](https://img.shields.io/badge/NGINX-limegreen?style=for-the-badge&logo=nginx&logoColor=00000F)
 ![Vmware](https://img.shields.io/badge/Vmware-00000F?style=for-the-badge&logo=vmware&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![GLab](https://img.shields.io/badge/GitLab-8a2be2?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-lightblue?style=for-the-badge&logo=atom&logoColor=00000F)
 ![Hugo](https://img.shields.io/badge/Hugo-00000F?style=for-the-badge&logo=hugo&logoColor=violet)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
