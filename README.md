@@ -78,8 +78,6 @@ Here are a few things I've picked up along my learning journey.
 ### Tools 🔥
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-00000F?style=for-the-badge&logo=ansible&logoColor=silver)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-663399?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PSH](https://img.shields.io/badge/Powershell-add8e6?style=for-the-badge&logo=powershell&logoColor=mediumblue)
 ![GitHub](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=ffffff)
@@ -90,7 +88,6 @@ Here are a few things I've picked up along my learning journey.
 ![Nginx](https://img.shields.io/badge/NGINX-limegreen?style=for-the-badge&logo=nginx&logoColor=00000F)
 ![Vmware](https://img.shields.io/badge/Vmware-00000F?style=for-the-badge&logo=vmware&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-lightblue?style=for-the-badge&logo=atom&logoColor=00000F)
 ![Hugo](https://img.shields.io/badge/Hugo-00000F?style=for-the-badge&logo=hugo&logoColor=violet)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Network](https://img.shields.io/badge/PT-00000F?style=for-the-badge&logo=Cisco&logoColor=peachpuff)
