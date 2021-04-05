@@ -109,7 +109,7 @@ Here are a few things I've picked up along my learning journey.
 
 ### GitHub Stat
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=3ncrypt3db0t&hide=contribs,issues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=3ncrypt3db0t&hide=issues&show_icons=true&theme=cobalt"/>
 </p>
 
 ### GitHub Streak
