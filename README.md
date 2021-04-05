@@ -104,12 +104,12 @@ Here are a few things I've picked up along my learning journey.
 
 ### Language Stat
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ncrypt3db0t&langs_count=7&theme=monokai">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ncrypt3db0t&layout=compact&langs_count=6&theme=cobalt">
 </p>
 
 ### GitHub Stat
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=3ncrypt3db0t&hide=contribs,issues&theme=gradient&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=3ncrypt3db0t&hide=contribs,issues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true"/>
 </p>
 
 ### GitHub Streak
