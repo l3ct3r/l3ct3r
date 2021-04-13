@@ -13,7 +13,7 @@
 
 
 - 🌱 I’m currently learning everything 📝
-- 🥅 2021 Goals: Being able to contribute more to Open Source projects
+- 🥅 2021 Goal: Being able to learn more than previous year 
 - 💬 Ask me about ... Anything
 - 😅 Fun Fact: I don't write code but I do follow code(Code Dysgraphia)  😁
 
