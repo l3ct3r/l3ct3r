@@ -50,7 +50,6 @@ Here are a few things I've picked up along my learning journey.
 
 ![Debian](https://img.shields.io/badge/Debian-00000F?style=for-the-badge&logo=debian&logoColor=deeppink)
 ![Fedora](https://img.shields.io/badge/Fedora-00000F?style=for-the-badge&logo=fedora&logoColor=skyblue)
-![FBSD](https://img.shields.io/badge/FREE_BSD-000000?style=for-the-badge&logo=freebsd&logoColor=red)
 ![Arch](https://img.shields.io/badge/Arch-000000?style=for-the-badge&logo=arch-linux&logoColor=cyan)
 ![Cent](https://img.shields.io/badge/Cent_Os-000000?style=for-the-badge&logo=centos&logoColor=lime)
 ![Windows](https://img.shields.io/badge/Windows-00000F?style=for-the-badge&logo=windows&logoColor=skyblue)
@@ -79,6 +78,11 @@ Here are a few things I've picked up along my learning journey.
 ![Network](https://img.shields.io/badge/PT-00000F?style=for-the-badge&logo=Cisco&logoColor=peachpuff)
 ![VIM](https://img.shields.io/badge/VIM-lawngreen?style=for-the-badge&logo=vim&logoColor=00000F)
 ![MD](https://img.shields.io/badge/Markdown-00000F?style=for-the-badge&logo=markdown&logoColor=white)
+
+### Graphical Tools 
+![GIMP](https://img.shields.io/badge/GIMP-gray?style=for-the-badge&logo=gimp&logoColor=peachpuff)
+![KRITA](https://img.shields.io/badge/KRITA-f4760e?style=for-the-badge&logo=krita&logoColor=096f75)
+![Inkscape]()
 
 ## Github Badge 🏅
 <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://user-images.githubusercontent.com/48232101/113098117-c57ae200-9217-11eb-85a1-97e6011b78bf.gif" width="40" height="40"></a> 
