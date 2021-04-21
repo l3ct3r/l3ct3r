@@ -50,7 +50,7 @@ Here are a few things I've picked up along my learning journey.
 
 ![Debian](https://img.shields.io/badge/Debian-00000F?style=for-the-badge&logo=debian&logoColor=deeppink)
 ![Fedora](https://img.shields.io/badge/Fedora-00000F?style=for-the-badge&logo=fedora&logoColor=skyblue)
-![FBSD](https://img.shields.io/badge/FREE_BSD-faf0e6?style=for-the-badge&logo=freebsd&logoColor=red)
+![FBSD](https://img.shields.io/badge/FREE_BSD-000000?style=for-the-badge&logo=freebsd&logoColor=red)
 ![Arch](https://img.shields.io/badge/Arch-000000?style=for-the-badge&logo=arch-linux&logoColor=cyan)
 ![Cent](https://img.shields.io/badge/Cent_Os-000000?style=for-the-badge&logo=centos&logoColor=lime)
 ![Windows](https://img.shields.io/badge/Windows-00000F?style=for-the-badge&logo=windows&logoColor=skyblue)
