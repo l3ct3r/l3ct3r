@@ -90,7 +90,7 @@ Here are a few things I've picked up along my learning journey.
 ## GitHub Analytics Visualization 🔎
 
 ### Language Stat
-![LANG](https://github-readme-stats.vercel.app/api/top-langs/?username=3ncrypt3db0t&layout=compact&langs_count=6&theme=cobalt)
+![LANG](https://github-readme-stats.vercel.app/api/top-langs/?username=3ncrypt3db0t&layout=compact&langs_count=5&theme=cobalt)
 
 ### GitHub Stat
 <p align="left">
