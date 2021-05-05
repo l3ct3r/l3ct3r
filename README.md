@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning everything 📝
 - 🥅 2021 Goal: Being able to learn more than previous year 
 - 💬 Ask me about ... Anything
-- 😅 Fun Fact: I don't write code but I do follow code(Code Dysgraphia)  😁
+- 😅 Fun Fact: I don't write code but I do follow code(Code Dysgraphia) 😁
 
 <h3 align="left"> 📱 Talk with me, I won't ask for reCAPTCHA  :stuck_out_tongue_closed_eyes: :</h3>
 <p align="left">
