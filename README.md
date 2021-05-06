@@ -60,8 +60,6 @@ Here are a few things I've picked up along my learning journey.
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=Php&logoColor=lemonchiffon)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/FLASK-00000F?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-00000F?style=for-the-badge&logo=django&logoColor=red)
 
 ### Database 🗄️
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
