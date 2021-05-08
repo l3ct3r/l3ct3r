@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/48232101/113235702-52c74080-92c3-11eb-86b8-529fe75350f8.gif)
+![3ncrypt3db0t](https://user-images.githubusercontent.com/48232101/117534300-75f6b580-b010-11eb-8e27-9443ab2ffb40.gif)
 
 <h1 align="center"> 🙏 Namaste, I'm 3ncrypt3db0t 🤖 </h1>
 <h2 align="center">I'm ❗👨‍💻</h2>
