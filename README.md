@@ -77,11 +77,6 @@ Here are a few things I've picked up along my learning journey.
 ![VIM](https://img.shields.io/badge/VIM-lawngreen?style=for-the-badge&logo=vim&logoColor=00000F)
 ![MD](https://img.shields.io/badge/Markdown-00000F?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Graphical Tools 
-![GIMP](https://img.shields.io/badge/GIMP-gray?style=for-the-badge&logo=gimp&logoColor=peachpuff)
-![KRITA](https://img.shields.io/badge/KRITA-f4760e?style=for-the-badge&logo=krita&logoColor=096f75)
-![Inkscape](https://img.shields.io/badge/INKSCAPE-peachpuff?style=for-the-badge&logo=inkscape&logoColor=gray)
-
 ## Github Badge 🏅
 <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://user-images.githubusercontent.com/48232101/113098117-c57ae200-9217-11eb-85a1-97e6011b78bf.gif" width="40" height="40"></a> 
 
