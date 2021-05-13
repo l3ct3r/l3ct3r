@@ -32,12 +32,8 @@
 ### Learning Platform 🎞
 
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-blue?style=for-the-badge&logo=coursera&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-bisque?style=for-the-badge&logo=udemy&logoColor=FF0000)
-![Udacity](https://img.shields.io/badge/Udacity-blue?style=for-the-badge&logo=udacity&logoColor=white)
-![EdX](https://img.shields.io/badge/EdX-black?style=for-the-badge&logo=edx&logoColor=white)
 ![PluralSight](https://img.shields.io/badge/Pluralsight-crimson?style=for-the-badge&logo=pluralsight&logoColor=white)
-![KA](https://img.shields.io/badge/Khan_Academy-00000A?style=for-the-badge&logo=khan-academy&logoColor=7fffd4)
 
 ### 🤓 My values
 - 🍏 Beginner's (🔰) mindset and curiosity 
