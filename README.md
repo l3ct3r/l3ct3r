@@ -77,15 +77,15 @@ Here are a few things I've picked up along my learning journey.
 <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://user-images.githubusercontent.com/48232101/113098117-c57ae200-9217-11eb-85a1-97e6011b78bf.gif" width="40" height="40"></a> 
 
 ## GitHub Analytics Visualization 🔎
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3ncrypt3db0t&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3ncrypt3db0t&theme=monokai)
 
 ### Language Stat
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3ncrypt3db0t&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3ncrypt3db0t&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3ncrypt3db0t&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3ncrypt3db0t&theme=monokai)
 
 ### GitHub Stat 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=3ncrypt3db0t&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3ncrypt3db0t&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3ncrypt3db0t&theme=monokai)
 
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/48232101/112832877-a95f2f80-90b5-11eb-8955-8945652f11cd.gif">
