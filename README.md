@@ -77,14 +77,15 @@ Here are a few things I've picked up along my learning journey.
 <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://user-images.githubusercontent.com/48232101/113098117-c57ae200-9217-11eb-85a1-97e6011b78bf.gif" width="40" height="40"></a> 
 
 ## GitHub Analytics Visualization 🔎
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3ncrypt3db0t&theme=nord_dark)
 
 ### Language Stat
-![LANG](https://github-readme-stats.vercel.app/api/top-langs/?username=3ncrypt3db0t&layout=compact&langs_count=5&theme=cobalt)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3ncrypt3db0t&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3ncrypt3db0t&theme=nord_dark)
 
 ### GitHub Stat
-<p align="left">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=3ncrypt3db0t&layout=compact">
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=3ncrypt3db0t&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3ncrypt3db0t&theme=nord_dark)
 
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/48232101/112832877-a95f2f80-90b5-11eb-8955-8945652f11cd.gif">
