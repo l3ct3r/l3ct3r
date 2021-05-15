@@ -84,7 +84,7 @@ Here are a few things I've picked up along my learning journey.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3ncrypt3db0t&theme=nord_dark)
 
 ### GitHub Stat 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=3ncrypt3db0t)](https://github.com/LordDashMe/github-contribution-stats/)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3ncrypt3db0t&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3ncrypt3db0t&theme=nord_dark)
 
 <p align="center"> 
