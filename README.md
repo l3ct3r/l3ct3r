@@ -74,7 +74,7 @@ Here are a few things I've picked up along my learning journey.
 ![MD](https://img.shields.io/badge/Markdown-00000F?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## Github Badge 🏅
-<a href="https://archiveprogram.github.com/" target="_blank"><img src="https://user-images.githubusercontent.com/48232101/118459087-1b99db00-b71b-11eb-8bf5-43af54384e57.gif" width="40" height="40"></a> 
+<a href="https://archiveprogram.github.com/" target="_blank"><img src="https://user-images.githubusercontent.com/48232101/118459087-1b99db00-b71b-11eb-8bf5-43af54384e57.gif" width="60" height="60"></a> 
 
 
 ## GitHub Analytics Visualization 🔎
