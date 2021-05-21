@@ -2,9 +2,6 @@
 
 <h1 align="center"> 🙏 Namaste, I'm 3ncrypt3db0t 🤖 </h1>
 <h2 align="center">I'm ❗👨‍💻</h2>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/48232101/113013474-75f6d080-919b-11eb-83ed-d8ba2ab775a1.gif" width="40px">
-</p> 
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=3ncrypt3db0t&label=Visitors&color=9acd32&style=for-the-badge"> 
@@ -72,10 +69,6 @@ Here are a few things I've picked up along my learning journey.
 ![Network](https://img.shields.io/badge/PT-00000F?style=for-the-badge&logo=Cisco&logoColor=peachpuff)
 ![VIM](https://img.shields.io/badge/VIM-lawngreen?style=for-the-badge&logo=vim&logoColor=00000F)
 ![MD](https://img.shields.io/badge/Markdown-00000F?style=for-the-badge&logo=markdown&logoColor=white)
-
-## Github Badge 🏅
-<a href="https://archiveprogram.github.com/" target="_blank"><img src="https://user-images.githubusercontent.com/48232101/118459087-1b99db00-b71b-11eb-8bf5-43af54384e57.gif" width="60" height="60"></a> 
-
 
 ## GitHub Analytics Visualization 🔎
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3ncrypt3db0t&theme=monokai)
