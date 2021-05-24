@@ -17,7 +17,6 @@
 <h3 align="left"> 📱 Talk with me, I won't ask for reCAPTCHA  :stuck_out_tongue_closed_eyes: :</h3>
 <p align="left">
 <a href="https://t.me/ID10TIRL" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-skyblue?style=for-the-badge&logo=telegram&logoColor=00000F"> </a>
-<a href="https://reddit.com/user/3ncrypt3db0t" target="_blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>  
 </p>
 
 ### Spotify Playing 🎧 
