@@ -42,8 +42,8 @@ Here are a few things I've picked up along my learning journey.
 ### OS 💻
 ![DEB](https://img.shields.io/badge/Debian-00000F?style=for-the-badge&logo=debian&logoColor=deeppink)
 ![FED](https://img.shields.io/badge/Fedora-00000F?style=for-the-badge&logo=fedora&logoColor=skyblue) 
-![ARCH]https://img.shields.io/badge/Arch-000000?style=for-the-badge&logo=arch-linux&logoColor=cyan) 
-![CENT]https://img.shields.io/badge/Cent_Os-000000?style=for-the-badge&logo=centos&logoColor=lime) 
+![ARCH](https://img.shields.io/badge/Arch-000000?style=for-the-badge&logo=arch-linux&logoColor=cyan) 
+![CENT](https://img.shields.io/badge/Cent_Os-000000?style=for-the-badge&logo=centos&logoColor=lime) 
 ![WIN](https://img.shields.io/badge/Windows-00000F?style=for-the-badge&logo=windows&logoColor=skyblue)
 
 ###  Web 🕸️  
