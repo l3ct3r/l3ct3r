@@ -81,7 +81,7 @@ Here are a few things I've picked up along my learning journey.
 ![INKES](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
 ![KR](https://img.shields.io/badge/Krita-3BAFFF?style=for-the-badge&logo=Krita&logoColor=white)
 ![AUD](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=Audacity&logoColor=white)
-![LMM]
+![LMMS](https://img.shields.io/badge/LMMS-10B146?style=for-the-badge&logo=LMMS&logoColor=white)
 ![]()
 
 ### Cloud ☁️
