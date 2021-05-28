@@ -78,7 +78,11 @@ Here are a few things I've picked up along my learning journey.
 ![MD](https://img.shields.io/badge/Markdown-00000F?style=for-the-badge&logo=markdown&logoColor=white)
 ![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-
+![INKES](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
+![KR](https://img.shields.io/badge/Krita-3BAFFF?style=for-the-badge&logo=Krita&logoColor=white)
+![AUD]()
+![LMM]
+![]()
 
 ### Cloud ☁️
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
