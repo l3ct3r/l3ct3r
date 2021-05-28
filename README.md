@@ -65,6 +65,7 @@ Here are a few things I've picked up along my learning journey.
 ### Tools 🔥
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![PSH](https://img.shields.io/badge/Powershell-add8e6?style=for-the-badge&logo=powershell&logoColor=mediumblue)
 ![GitHub](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=ffffff)
 ![VirtualBox](https://img.shields.io/badge/V_Box-6495ed?style=for-the-badge&logo=virtualbox&logoColor=00000F)
