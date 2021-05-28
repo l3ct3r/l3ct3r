@@ -78,8 +78,6 @@ Tools and Frameworks    |
 ![MD](https://img.shields.io/badge/Markdown-00000F?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Cloud ☁️
-Cloud                   | 
------------------------ |
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## GitHub Analytics Visualization 🔎
