@@ -80,7 +80,7 @@ Here are a few things I've picked up along my learning journey.
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![INKES](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
 ![KR](https://img.shields.io/badge/Krita-3BAFFF?style=for-the-badge&logo=Krita&logoColor=white)
-![AUD]()
+![AUD](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=Audacity&logoColor=white)
 ![LMM]
 ![]()
 
