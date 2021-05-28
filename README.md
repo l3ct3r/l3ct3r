@@ -55,6 +55,7 @@ Here are a few things I've picked up along my learning journey.
 ![PHP](https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=Php&logoColor=lemonchiffon)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DJ](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![FL](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Database 🗄️
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
