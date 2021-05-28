@@ -40,17 +40,13 @@
 Here are a few things I've picked up along my learning journey.
 
 ### OS 💻
-Operating System        | 
------------------------ |
-<img src="https://img.shields.io/badge/Debian-00000F?style=for-the-badge&logo=debian&logoColor=deeppink" /> |
-<img src="https://img.shields.io/badge/Fedora-00000F?style=for-the-badge&logo=fedora&logoColor=skyblue" /> |
-<img src="https://img.shields.io/badge/Arch-000000?style=for-the-badge&logo=arch-linux&logoColor=cyan" /> |
-<img src="https://img.shields.io/badge/Cent_Os-000000?style=for-the-badge&logo=centos&logoColor=lime" /> |
-<img src="https://img.shields.io/badge/Windows-00000F?style=for-the-badge&logo=windows&logoColor=skyblue" /> |
+![DEB](https://img.shields.io/badge/Debian-00000F?style=for-the-badge&logo=debian&logoColor=deeppink)
+![FED](https://img.shields.io/badge/Fedora-00000F?style=for-the-badge&logo=fedora&logoColor=skyblue) 
+![ARCH]https://img.shields.io/badge/Arch-000000?style=for-the-badge&logo=arch-linux&logoColor=cyan) 
+![CENT]https://img.shields.io/badge/Cent_Os-000000?style=for-the-badge&logo=centos&logoColor=lime) 
+![WIN](https://img.shields.io/badge/Windows-00000F?style=for-the-badge&logo=windows&logoColor=skyblue)
 
 ###  Web 🕸️  
-Web                     |  
------------------------ |
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
