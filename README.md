@@ -73,7 +73,7 @@ Here are a few things I've picked up along my learning journey.
 ![LAMP](https://img.shields.io/badge/XAMPP-orange?style=for-the-badge&logo=xampp&logoColor=00000F)
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Network](https://img.shields.io/badge/PT-00000F?style=for-the-badge&logo=Cisco&logoColor=peachpuff)
-![VIM](https://img.shields.io/badge/VIM-lawngreen?style=for-the-badge&logo=vim&logoColor=00000F)
+![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![MD](https://img.shields.io/badge/Markdown-00000F?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Cloud ☁️
