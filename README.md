@@ -41,6 +41,7 @@ Here are a few things I've picked up along my learning journey.
 
 ### OS 💻
 ![DEB](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![MINT](https://img.shields.io/badge/Mint-87CF3Estyle=for-the-badge&logo=Linux-Mint&logoColor=white)
 ![FED](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) 
 ![ARCH](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=Arch-Linux&logoColor=white) 
 ![CENT](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=Red-Hat&logoColor=white) 
