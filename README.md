@@ -46,7 +46,7 @@ Here are a few things I've picked up along my learning journey.
 ![CENT](https://img.shields.io/badge/Cent_Os-000000?style=for-the-badge&logo=centos&logoColor=lime) 
 ![WIN](https://img.shields.io/badge/Windows-00000F?style=for-the-badge&logo=windows&logoColor=skyblue)
 
-###  Web 🕸️  
+###  Languages and Frameworks 🚀  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -61,7 +61,7 @@ Here are a few things I've picked up along my learning journey.
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-### Tools and Frameworks 🔥
+### Tools 🔥
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![ATOM](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
