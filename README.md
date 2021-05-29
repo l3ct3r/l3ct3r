@@ -30,7 +30,7 @@
 
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-bisque?style=for-the-badge&logo=udemy&logoColor=FF0000)
-![PluralSight](https://img.shields.io/badge/Pluralsight-crimson?style=for-the-badge&logo=pluralsight&logoColor=white)
+![PluralSight](https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=pluralsight&logoColor=white)
 
 ### 🤓 My values
 - 🍏 Beginner's (🔰) mindset and curiosity 
