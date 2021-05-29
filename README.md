@@ -88,6 +88,7 @@ Here are a few things I've picked up along my learning journey.
 ![]()
 
 ### Cloud ☁️
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## GitHub Analytics Visualization 🔎
