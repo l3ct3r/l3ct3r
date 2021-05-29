@@ -40,11 +40,11 @@
 Here are a few things I've picked up along my learning journey.
 
 ### OS 💻
-![DEB](https://img.shields.io/badge/Debian-00000F?style=for-the-badge&logo=debian&logoColor=deeppink)
-![FED](https://img.shields.io/badge/Fedora-00000F?style=for-the-badge&logo=fedora&logoColor=skyblue) 
-![ARCH](https://img.shields.io/badge/Arch-000000?style=for-the-badge&logo=arch-linux&logoColor=cyan) 
-![CENT](https://img.shields.io/badge/Cent_Os-000000?style=for-the-badge&logo=centos&logoColor=lime) 
-![WIN](https://img.shields.io/badge/Windows-00000F?style=for-the-badge&logo=windows&logoColor=skyblue)
+![DEB](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![FED](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) 
+![ARCH](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=Arch-Linux&logoColor=white) 
+![CENT](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=Red-Hat&logoColor=white) 
+![WIN](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ###  Languages and Frameworks 🚀  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
