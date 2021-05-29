@@ -41,10 +41,11 @@ Here are a few things I've picked up along my learning journey.
 
 ### OS 💻
 ![DEB](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![MINT](https://img.shields.io/badge/Mint-87CF3Estyle=for-the-badge&logo=Linux-Mint&logoColor=white)
+![MINT](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=black)
 ![FED](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) 
+![ARTIX](https://img.shields.io/badge/Artix-10A0CC?style=for-the-badge&logo=Artix&logoColor=white)
 ![ARCH](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=Arch-Linux&logoColor=white) 
-![CENT](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=Red-Hat&logoColor=white) 
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=Red-Hat&logoColor=white) 
 ![WIN](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ###  Languages and Frameworks 🚀  
