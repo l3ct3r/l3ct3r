@@ -29,6 +29,7 @@
 ### Learning Platform 🎞
 
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)
 ![PluralSight](https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=pluralsight&logoColor=white)
 
