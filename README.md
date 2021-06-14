@@ -75,8 +75,6 @@ Here are a few things I've picked up along my learning journey.
 ![HUGO](https://img.shields.io/badge/Hugo-ff4088?style=for-the-badge&logo=Hugo&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![XAMP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=XAMPP&logoColor=white)
-![AWS-AMPLIFY](https://img.shields.io/badge/AWS_AMPLIFY-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=black)
-![AMAZON-S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=Amazon-S3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![NF](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![HK](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
@@ -90,10 +88,6 @@ Here are a few things I've picked up along my learning journey.
 ![KR](https://img.shields.io/badge/Krita-3BAFFF?style=for-the-badge&logo=Krita&logoColor=white)
 ![AUD](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=Audacity&logoColor=white)
 ![LMMS](https://img.shields.io/badge/LMMS-10B146?style=for-the-badge&logo=LMMS&logoColor=white)
-
-### Cloud ☁️
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## GitHub Analytics Visualization 🔎
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3ncrypt3db0t&theme=monokai)
