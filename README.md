@@ -4,7 +4,7 @@
 <h2 align="center">I'm ❗👨‍💻</h2>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=3ncrypt3db0t&label=Visitors&color=9acd32&style=for-the-badge"> 
+  <img src="https://komarev.com/ghpvc/?username=3ncrypt3db0t&label=Visitors&color=9400d3&style=for-the-badge"> 
 </p>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/48232101/112782476-d76c5180-906c-11eb-8b47-919033dc4123.gif">
 
