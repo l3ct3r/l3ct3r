@@ -43,7 +43,6 @@
 Here are a few things I've picked up along my learning journey.
 
 ### OS 💻
-![ALP](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![DEB](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![MINT](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=black)
 ![FED](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) 
