@@ -79,6 +79,7 @@ Here are a few things I've picked up along my learning journey.
 ![HUGO](https://img.shields.io/badge/Hugo-ff4088?style=for-the-badge&logo=Hugo&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![XAMP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=XAMPP&logoColor=white)
+![VAGRANT](https://img.shields.io/badge/VAGRANT-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![GC](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![NF](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
