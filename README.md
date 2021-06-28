@@ -95,8 +95,8 @@ Here are a few things I've picked up along my learning journey.
 ![AUD](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=Audacity&logoColor=white)
 ![LMMS](https://img.shields.io/badge/LMMS-10B146?style=for-the-badge&logo=LMMS&logoColor=white)
 
-## GitHub Analytics Visualization 🔎
-<!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3ncrypt3db0t&theme=monokai)
+<!--!## GitHub Analytics Visualization 🔎
+[](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3ncrypt3db0t&theme=monokai)
 
 ### Language Stat
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3ncrypt3db0t&theme=monokai)
