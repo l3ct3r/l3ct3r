@@ -8,7 +8,6 @@
 </p>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/48232101/112782476-d76c5180-906c-11eb-8b47-919033dc4123.gif">
 
-
 - 🌱 I’m currently learning everything 📝
 - 🥅 2021 Goal: Being able to learn more than previous year 
 - 💬 Ask me about ... Anything
@@ -95,9 +94,8 @@ Here are a few things I've picked up along my learning journey.
 ![AUD](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=Audacity&logoColor=white)
 ![LMMS](https://img.shields.io/badge/LMMS-10B146?style=for-the-badge&logo=LMMS&logoColor=white)
 
-<!--
 ## GitHub Analytics Visualization 🔎
-[](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3ncrypt3db0t&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3ncrypt3db0t&theme=monokai)
 
 ### Language Stat
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3ncrypt3db0t&theme=monokai)
@@ -106,7 +104,7 @@ Here are a few things I've picked up along my learning journey.
 ### GitHub Stat 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=3ncrypt3db0t&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3ncrypt3db0t&theme=monokai)
--->
+
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/48232101/112832877-a95f2f80-90b5-11eb-8955-8945652f11cd.gif">
 </p>
