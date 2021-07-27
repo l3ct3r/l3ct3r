@@ -20,7 +20,9 @@
 </p>
 
 ### Spotify Playing 🎧 
-
+<p align="left">
+  <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing">
+</p>
 
 ### Learning Platform 🎞
 
