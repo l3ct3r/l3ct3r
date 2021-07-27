@@ -7,6 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=3ncrypt3db0t&label=Visitors&color=ff4500&style=flat-square"> 
 </p>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/48232101/112782476-d76c5180-906c-11eb-8b47-919033dc4123.gif">
+<br>
 
 - 🌱 I’m currently learning everything 📝
 - 🥅 2021 Goal: Being able to learn more than previous year 
