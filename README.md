@@ -7,7 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=3ncrypt3db0t&label=Visitors&color=ff4500&style=flat-square"> 
 </p>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/48232101/112782476-d76c5180-906c-11eb-8b47-919033dc4123.gif">
-<br>
 
 - 🌱 I’m currently learning everything 📝
 - 🥅 2021 Goal: Being able to learn more than previous year 
@@ -20,8 +19,10 @@
 <a href="https://reddit.com/u/3ncrypt3db0t" target="_blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"> </a>
 </p>
 
-### Learning Platform 🎞
+### Spotify Playing 🎧
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/playlist/6EsdwwOCBk25w1jqo0N5Yu)
 
+### Learning Platform 🎞
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)
