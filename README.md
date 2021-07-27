@@ -20,7 +20,7 @@
 </p>
 
 ### Spotify Playing 🎧
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/playlist/6EsdwwOCBk25w1jqo0N5Yu)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/153SwL1d9SfCLWhqIs08we?si=993e6e8b11454fe0)
 
 ### Learning Platform 🎞
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
