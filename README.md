@@ -19,8 +19,8 @@
 <a href="https://reddit.com/u/3ncrypt3db0t" target="_blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"> </a>
 </p>
 
-### Spotify Playing 🎧
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/153SwL1d9SfCLWhqIs08we?si=993e6e8b11454fe0)
+### 🤘 Vibing To 🎧
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=smfy8qv7ozn8takw4r42j1zvr&cover_image=true&theme=novatorem)
 
 ### Learning Platform 🎞
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
