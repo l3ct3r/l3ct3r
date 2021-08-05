@@ -91,9 +91,9 @@ Here are a few things I've picked up along my learning journey.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3ncrypt3db0t&theme=monokai)
 
 ### Language Stat
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3ncrypt3db0t&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3ncrypt3db0t&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3ncrypt3db0t&theme=monokai)
- -->
+
 ### GitHub Stat 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=3ncrypt3db0t&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3ncrypt3db0t&theme=monokai)
