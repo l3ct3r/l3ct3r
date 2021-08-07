@@ -16,7 +16,9 @@
 <h3 align="left"> 📱 Talk with me, I won't ask for reCAPTCHA  :stuck_out_tongue_closed_eyes: :</h3>
 <p align="left">
 <a href="https://t.me/ID10TIRL" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a>
-<a href="https://reddit.com/u/3ncrypt3db0t" target="_blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"> </a>
+<a href="https://reddit.com/u/3ncrypt3db0t" target="_blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"> 
+<a href="mail.tutanota.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=tutanota&logoColor=white"> 
+</a>
 </p>
 
 ### 🤘 Vibing To 🎧
