@@ -101,6 +101,11 @@ Here are a few things I've picked up along my learning journey.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=3ncrypt3db0t&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3ncrypt3db0t&theme=monokai)
 -->
+  
+<p align="center">
+  <img src="
+https://activity-graph.herokuapp.com/graph?username=3ncrypt3db0t&custom_title=Recent%20HIghlights&hide_border=true&area=true&area_color=F3F5CB&point=099430&line=95f5b0&theme=github-dark%22%20alt=%22Recently%20contributions%20graph%22">
+</p>
 
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/48232101/112832877-a95f2f80-90b5-11eb-8955-8945652f11cd.gif">
