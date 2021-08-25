@@ -6,26 +6,19 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=3ncrypt3db0t&label=Visitors&color=ff4500&style=flat-square"> 
 </p>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/48232101/112782476-d76c5180-906c-11eb-8b47-919033dc4123.gif">
 
-- 🌱 I’m currently learning everything 📝
-- 🥅 2021 Goal: Being able to learn more than previous year 
-- 💬 Ask me about ... Anything
-- 😅 Fun Fact: I don't write code but I do follow code(Code Dysgraphia) 😁
-
-<h3 align="left"> 📱 Talk with me, I won't ask for reCAPTCHA  :stuck_out_tongue_closed_eyes: :</h3>
-<p align="left">
+<h3 align="center"> 📱 Talk with me, I won't ask for reCAPTCHA  :stuck_out_tongue_closed_eyes: :</h3>
+<p align="center">
 <a href="https://t.me/drstrangelov3" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a>
 <a href="https://reddit.com/u/3ncrypt3db0t" target="_blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"> 
 </p>
+<br />
 
-### 🤘 Vibing To 🎧
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=smfy8qv7ozn8takw4r42j1zvr&cover_image=true&theme=novatorem)
-
-### 🤓 My values
-- 🍏 Beginner's (🔰) mindset and curiosity 
-- 🙌 Sharing anything I learned
-
+<h3 align="center"> 🤘 Vibing To 🎧</h3>
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=smfy8qv7ozn8takw4r42j1zvr&cover_image=true&theme=novatorem">
+</p>
+  
 ```javascript
 const 3ncrypt3db0t = {
     alias: "ID10T_1RL",
