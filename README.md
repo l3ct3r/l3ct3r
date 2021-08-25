@@ -41,7 +41,7 @@ const 3ncrypt3db0t = {
             eLearning: ["YoutTube", "Udemy", "Free Code Camp", "Coursera", "Udacity", "Khan Academy"]
         },
         tools: {
-            favorites: ["Git", "Codium", "GitHub", "Power-Shell", "Shell > Bash || ZSH ", "Docker"]
+            frequentlyUsed: ["Git", "Codium", "GitHub", "Power-Shell", "Shell > Bash || ZSH ", "Docker"]
         },
         tools: {
             textEditor: ["Codium", "VSCode", "VSCode - Insoders", "Vim"]
