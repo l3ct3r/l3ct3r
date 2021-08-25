@@ -47,7 +47,7 @@ const 3ncrypt3db0t = {
             textEditor: ["Codium", "VSCode", "VSCode - Insoders", "Vim"]
         },
         tools: {
-            virtualization: ["Virtualbox", "VMware", "Hyper-V", "KVM"]
+            virtualization: ["Virtualbox", "VMware", "Hyper-V", "KVM", "Vagrant"]
         },
         tools: {
             graphics: ["GIMP", "Krita", "Inkscape", "Canva"]
@@ -59,7 +59,13 @@ const 3ncrypt3db0t = {
             freeHosting: ["Netlify", "Heroku"]
         },
         tools: {
-            administration: ["XAMPP", "NGNIX", "Splunk", "Vagrant", "Google Cloud", "Packet Tracer", "GNS3"]
+            serverAdministration: ["XAMPP", "NGNIX", "Windown Server"]
+        },
+        tools: {
+            networkAdministration: ["Packet Tracer", "GNS3"]
+        },
+         tools: {
+            cloudAdministration: ["Google Cloud", "Splunk"]
         },
         tools: {
             DAW: ["Audacity", "LMMS"]
