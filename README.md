@@ -12,8 +12,7 @@
 <a href="https://t.me/drstrangelov3" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a>
 <a href="https://reddit.com/u/3ncrypt3db0t" target="_blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"> 
 </p>
-<br />
-
+  
 <h3 align="center"> 🤘 Vibing To 🎧</h3>
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=smfy8qv7ozn8takw4r42j1zvr&cover_image=true&theme=novatorem">
