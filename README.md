@@ -34,13 +34,20 @@ const 3ncrypt3db0t = {
     askMeAbout: ["Tech", "Music", "Movie"],
     techStack: {
         operatingSystem: {
-            linux: ["Arch", "Rocky", "Mint", "Debian", "Fedora", "RHEL", "Artix"]
+            openSource: ["Arch", "Rocky", "Mint", "Debian", "Fedora", "RHEL", "Artix"], 
+            closedSource: ["Windows 10"],
         },
         learningPlatform: {
             eLearning: ["YoutTube", "Udemy", "Free Code Camp", "Coursera", "Udacity", "Khan Academy"]
         },
         tools: {
-            favorites: ["Git", "Codium", "GitHub", "Power-Shell", "Shell > Bash || ZSH ", "Virtualbox", "Docker", "Vim"]
+            favorites: ["Git", "Codium", "GitHub", "Power-Shell", "Shell > Bash || ZSH ", "Docker"]
+        },
+        tools: {
+            textEditor: ["Codium", "VSCode", "VSCode - Insoders", "Vim"]
+        },
+        tools: {
+            virtualization: ["Virtualbox", "VMware", "Hyper-V", "KVM"]
         },
         tools: {
             graphics: ["GIMP", "Krita", "Inkscape", "Canva"]
