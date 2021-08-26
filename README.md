@@ -36,7 +36,7 @@ const 3ncrypt3db0t = {
             frequentlyUsed: ["Git", "Codium", "GitHub", "Power-Shell", "Shell > Bash || ZSH ", "Docker"]
         },
         tools: {
-            textEditor: ["Codium", "VSCode", "VSCode - Insoders", "Vim"]
+            textEditor: ["Codium", "Vim", "VSCode"]
         },
         tools: {
             virtualization: ["Virtualbox", "VMware", "Hyper-V", "KVM", "Vagrant"]
