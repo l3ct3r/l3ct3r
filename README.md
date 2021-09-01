@@ -79,4 +79,4 @@ const 3ncrypt3db0t = {
 
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/48232101/112832877-a95f2f80-90b5-11eb-8955-8945652f11cd.gif">
-</p>
+</p>  
