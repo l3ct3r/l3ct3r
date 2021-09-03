@@ -65,6 +65,7 @@ const 3ncrypt3db0t = {
     }
 };
 ```
+<!--
 ## GitHub Analytics Visualization 🔎
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3ncrypt3db0t&theme=github_dark)
   
@@ -75,6 +76,7 @@ const 3ncrypt3db0t = {
 ### GitHub Stat 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=3ncrypt3db0t&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3ncrypt3db0t&theme=github_dark)
+-->
 
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/48232101/112832877-a95f2f80-90b5-11eb-8955-8945652f11cd.gif">
