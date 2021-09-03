@@ -79,5 +79,5 @@ const 3ncrypt3db0t = {
 -->
 
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/48232101/131993179-5933b4d3-6845-468d-98ec-8c2b8604304c.gif">
+  <img src="https://user-images.githubusercontent.com/48232101/131993680-fc193d2a-90a2-4cae-b41f-53db42d6dce9.gif">
 </p>  
