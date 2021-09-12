@@ -61,6 +61,9 @@ const 3ncrypt3db0t = {
         },
         tools: {
             DAW: ["Audacity", "LMMS"]
+        },
+        tools: {
+            webBrowser: ["LibreWolf", "WaterFox", "Brave"]
         }
     }
 };
