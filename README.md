@@ -22,7 +22,7 @@
 const 3ncrypt3db0t = {
     alias: "ID10T_1RL",
     code: ["JavaScript","Python",],
-    dB: ["MYSQL", "SQLITE", "Firebase"],
+    dB: ["MYSQL", "SQLITE", "Firebase", "MongoDB"],
     askMeAbout: ["Tech", "Music", "Movie"],
     techStack: {
         operatingSystem: {
