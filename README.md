@@ -6,13 +6,7 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=3ncrypt3db0t&label=Visitors&color=ff4500&style=flat-square"> 
 </p>
-
-<h3 align="center"> 📱 Talk with me, I won't ask for reCAPTCHA  :stuck_out_tongue_closed_eyes: :</h3>
-<p align="center">
-<a href="https://t.me/Dr3ncrypt3db0t" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a>
-<a href="https://reddit.com/u/3ncrypt3db0t" target="_blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"> 
-</p>
-  
+ 
 <h3 align="center"> 🤘 Vibing To 🎧</h3>
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=smfy8qv7ozn8takw4r42j1zvr&cover_image=true&theme=novatorem">
@@ -64,6 +58,9 @@ const 3ncrypt3db0t = {
         },
         tools: {
             webBrowser: ["LibreWolf", "WaterFox", "Brave"]
+        },
+        connectWithMe: {
+            socialMedia: ["Telegram (https://t.me/Dr3ncrypt3db0t)"]
         }
     }
 };
