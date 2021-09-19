@@ -51,7 +51,7 @@ const 3ncrypt3db0t = {
             freeHosting: ["Netlify", "Heroku"]
         },
         tools: {
-            serverAdministration: ["XAMPP", "NGNIX", "Windown Server"]
+            serverAdministration: ["XAMPP", "NGNIX"]
         },
         tools: {
             networkAdministration: ["Packet Tracer", "GNS3"]
