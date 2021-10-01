@@ -57,10 +57,7 @@ const 3ncrypt3db0t = {
             DAW: ["Audacity", "LMMS"]
         },
         tools: {
-            webBrowser: ["LibreWolf", "WaterFox", "Brave"]
-        },
-        connectWithMe: {
-            socialMedia: ["Telegram (https://t.me/Dr3ncrypt3db0t)"]
+            webBrowser: ["LibreWolf", "Brave"]
         }
     }
 };
