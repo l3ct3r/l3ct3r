@@ -19,7 +19,7 @@ const 3ncrypt3db0t = {
             closedSource: ["Windows 10"]
         },
         learningPlatform: {
-            eLearning: ["YoutTube", "Udemy", "Free Code Camp", "Coursera", "Udacity", "Khan Academy"]
+            eLearning: ["YoutTube", "Udemy", "Udacity", "Khan Academy"]
         },
         tools: {
             frequentlyUsed: ["Git", "Codium", "GitHub", "Power-Shell", "Shell > Bash || ZSH ", "Docker"]
