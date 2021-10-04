@@ -20,7 +20,7 @@ const 3ncrypt3db0t = {
     askMeAbout: ["Tech", "Music", "Movie"],
     techStack: {
         operatingSystem: {
-            openSource: ["Arch", "Rocky", "Debian"],
+            openSource: ["Arch", "Fedora", "Mint"],
             closedSource: ["Windows 10"]
         },
         learningPlatform: {
