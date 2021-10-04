@@ -10,7 +10,7 @@
 ```javascript
 const 3ncrypt3db0t = {
     alias: "ID10T_1RL",
-    code: ["JavaScript","Python",],
+    code: ["JavaScript", "Python", "Perl"],
     dB: ["MYSQL", "SQLITE", "Firebase"],
     askMeAbout: ["Tech", "Music", "Movie"],
     techStack: {
