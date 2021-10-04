@@ -6,11 +6,6 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=3ncrypt3db0t&label=Visitors&color=ff4500&style=flat-square"> 
 </p>
- 
-<h3 align="center"> 🤘 Vibing To 🎧</h3>
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=smfy8qv7ozn8takw4r42j1zvr&cover_image=true&theme=novatorem">
-</p>
   
 ```javascript
 const 3ncrypt3db0t = {
