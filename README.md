@@ -14,7 +14,7 @@
 ```javascript
 const 3ncrypt3db0t = {
     alias: "f0rk.b0mb3r",
-    code: ["JavaScript", "Python", "Perl"],
+    code: ["JavaScript", "Python", "Perl", "Shell"],
     dB: ["MYSQL", "SQLITE", "Firebase"],
     techStack: {
         operatingSystem: {
