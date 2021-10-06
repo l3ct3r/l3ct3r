@@ -1,18 +1,22 @@
 ![f0rkb0mb3r](https://user-images.githubusercontent.com/48232101/136136810-39224da6-887d-4166-ac11-23e75c62e582.gif)
 
-<h1 align="center"> 🙏 Namaste, I'm 3ncrypt3db0t 🤖 </h1>
-<h2 align="center">I'm ❗👨‍💻</h2>
+```
+ - Alias : 3NCRYPT3DB0T || f0rk.b0mb3r 
+ - Fun Fact : I'm not your regular 'IT Guy'
+ - Ask Me About : Tech, Music and Movie
+ - Disturbing Fact: ❗👨‍💻
+```
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=3ncrypt3db0t&label=Visitors&color=ff4500&style=flat-square"> 
 </p>
-  
+
+
 ```javascript
 const 3ncrypt3db0t = {
-    alias: "ID10T_1RL",
+    alias: "f0rk.b0mb3r",
     code: ["JavaScript", "Python", "Perl"],
     dB: ["MYSQL", "SQLITE", "Firebase"],
-    askMeAbout: ["Tech", "Music", "Movie"],
     techStack: {
         operatingSystem: {
             openSource: ["Arch", "Fedora", "Mint"],
