@@ -1,4 +1,4 @@
-- Banner will be updated soon
+![f0rkb0mb3r](https://user-images.githubusercontent.com/48232101/136136810-39224da6-887d-4166-ac11-23e75c62e582.gif)
 
 <h1 align="center"> 🙏 Namaste, I'm 3ncrypt3db0t 🤖 </h1>
 <h2 align="center">I'm ❗👨‍💻</h2>
