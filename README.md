@@ -2,9 +2,8 @@
 
 ```
  - Alias : 3NCRYPT3DB0T || f0rk.b0mb3r 
- - Fun Fact : I'm not your regular 'IT Guy'
+ - Fun Fact : I don't write 'Programs', I write 'Scripts'
  - Ask Me About : Tech, Music and Movie
- - Disturbing Fact: ❗👨‍💻
 ```
 
 <p align="center"> 
