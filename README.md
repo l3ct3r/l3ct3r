@@ -28,7 +28,7 @@ const 3ncrypt3db0t = {
             documentation: ["MarkDown", "LateX", "Libre Office"]
         },
         tools: {
-            freeHosting: ["Netlify", "Heroku"]
+            freeHosting: ["Netlify", "Heroku", "GitHub Pages"]
         },
         tools: {
             serverAdministration: ["XAMPP", "NGNIX"]
