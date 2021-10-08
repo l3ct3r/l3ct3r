@@ -1,8 +1,3 @@
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=3ncrypt3db0t&label=Visitors&color=ff4500&style=flat-square"> 
-</p>
-
-
 ```javascript
 const 3ncrypt3db0t = {
     alias: "f0rk.b0mb3r",
