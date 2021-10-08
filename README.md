@@ -1,11 +1,3 @@
-![f0rkb0mb3r](https://user-images.githubusercontent.com/48232101/136136810-39224da6-887d-4166-ac11-23e75c62e582.gif)
-
-```
- - Alias : 3NCRYPT3DB0T || f0rk.b0mb3r 
- - Fun Fact : I don't write 'Programs', I write 'Scripts'
- - Ask Me About : Tech, Music and Movie
-```
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=3ncrypt3db0t&label=Visitors&color=ff4500&style=flat-square"> 
 </p>
@@ -15,7 +7,8 @@
 const 3ncrypt3db0t = {
     alias: "f0rk.b0mb3r",
     code: ["JavaScript", "Python", "Perl", "Shell"],
-    dB: ["MYSQL", "SQLITE", "Firebase"],
+    dB: ["MYSQL", "SQLITE"],
+    funFact: "I don't write 'Programs' I write 'Scripts'",
     techStack: {
         operatingSystem: {
             openSource: ["Arch", "Fedora", "Mint"],
@@ -25,7 +18,7 @@ const 3ncrypt3db0t = {
             eLearning: ["YoutTube", "Udemy", "Udacity", "Khan Academy"]
         },
         tools: {
-            frequentlyUsed: ["Git", "Codium", "GitHub", "Power-Shell", "Shell > Bash || ZSH ", "Docker"]
+            frequentlyUsed: ["Git", "Codium", "GitHub", "Power-Shell", "Shell", "Docker"]
         },
         tools: {
             textEditor: ["Codium", "Vim"]
