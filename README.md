@@ -1,6 +1,6 @@
 ```javascript
-const 3ncrypt3db0t = {
-    alias: "f0rk.b0mb3r",
+const h05t1l3 = {
+    alias: "c03rc3_$cr1pt3r",
     code: ["JavaScript", "Python", "Perl", "Shell"],
     dB: ["MYSQL", "SQLITE"],
     funFact: "I don't write 'Programs' I write 'Scripts'",
