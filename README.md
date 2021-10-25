@@ -4,6 +4,7 @@ const 3ncrypt3db0t = {
     code: ["JavaScript", "Python", "Perl", "Shell"],
     dB: ["MYSQL", "SQLITE"],
     funFact: "I don't write 'Programs' I write 'Scripts'",
+    PS: "I'm not script kiddie (skid), don't confuse with my alias 😜",
     techStack: {
         operatingSystem: {
             openSource: ["Arch", "Fedora", "Mint"],
