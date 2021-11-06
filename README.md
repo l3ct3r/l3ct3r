@@ -1,6 +1,6 @@
 ```javascript
 const h05t1l3 = {
-    alias: "c03rc3_$cr1pt3r",
+    alias: "r00k13m0nst3r",
     code: ["JavaScript", "Python", "Perl", "Shell"],
     dB: ["MYSQL", "SQLITE"],
     funFact: "I don't write 'Programs' I write 'Scripts'",
