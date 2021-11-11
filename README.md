@@ -51,12 +51,12 @@ const l3ct3r = {
 ```
 
 ## GitHub Analytics Visualization 🔎
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r00k13m0nst3r&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l3ct3r&theme=github_dark)
   
 ### Language Stat
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r00k13m0nst3r&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r00k13m0nst3r&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=l3ct3r&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=l3ct3r&theme=github_dark)
   
 ### GitHub Stat 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=r00k13m0nst3r&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r00k13m0nst3r&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=l3ct3r&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=l3ct3r&theme=github_dark)
