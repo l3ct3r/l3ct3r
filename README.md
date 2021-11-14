@@ -41,7 +41,7 @@ const l3ct3r = {
         },
         tools: {
             webBrowser: ["LibreWolf", "Brave", "Waterfox"]
-        },,
+        },
         tools: {
             dB: ["MYSQL", "SQLITE"]
         }
