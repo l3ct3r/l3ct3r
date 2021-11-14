@@ -1,10 +1,6 @@
 ```javascript
 const l3ct3r = {
     alias: "औचित्यहीन",
-    code: ["JavaScript", "Python", "Perl", "Shell"],
-    dB: ["MYSQL", "SQLITE"],
-    funFact: "I don't write 'Programs' I write 'Scripts'",
-    PS: "I'm not script kiddie (skid), don't confuse with my alias 😜",
     techStack: {
         operatingSystem: {
             openSource: ["Arch", "Fedora", "Mint"],
@@ -12,6 +8,9 @@ const l3ct3r = {
         },
         learningPlatform: {
             eLearning: ["YoutTube", "Udemy", "Udacity", "Khan Academy"]
+        },
+        tools: {
+            scriptingLanguages: ["JavaScript", "Python", "Perl", "Shell"]
         },
         tools: {
             frequentlyUsed: ["Git", "Codium", "GitHub", "Shell"]
@@ -42,6 +41,9 @@ const l3ct3r = {
         },
         tools: {
             webBrowser: ["LibreWolf", "Brave", "Waterfox"]
+        },,
+        tools: {
+            dB: ["MYSQL", "SQLITE"]
         }
     }
 };
