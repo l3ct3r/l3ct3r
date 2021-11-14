@@ -14,7 +14,7 @@ const l3ct3r = {
             eLearning: ["YoutTube", "Udemy", "Udacity", "Khan Academy"]
         },
         tools: {
-            frequentlyUsed: ["Git", "Codium", "GitHub", "Power-Shell", "Shell", "Docker"]
+            frequentlyUsed: ["Git", "Codium", "GitHub", "Shell"]
         },
         tools: {
             textEditor: ["Codium", "Vim"]
@@ -38,13 +38,10 @@ const l3ct3r = {
             networkAdministration: ["Packet Tracer", "GNS3"]
         },
          tools: {
-            cloudAdministration: ["Google Cloud", "Splunk"]
+            cloudAdministration: ["Google Cloud", "Splunk", "Docker"]
         },
         tools: {
-            DAW: ["Audacity", "LMMS"]
-        },
-        tools: {
-            webBrowser: ["LibreWolf", "Brave"]
+            webBrowser: ["LibreWolf", "Brave", "Waterfox"]
         }
     }
 };
