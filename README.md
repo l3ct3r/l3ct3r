@@ -1,6 +1,6 @@
 ```javascript
 const l3ct3r = {
-    alias: "औचित्यहीन",
+    alias: "राउटे",
     techStack: {
         operatingSystem: {
             openSource: ["Arch", "Fedora", "Mint"],
