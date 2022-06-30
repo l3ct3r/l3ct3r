@@ -7,37 +7,22 @@ const l3ct3r = {
             closedSource: ["Windows 10"]
         },
         learningPlatform: {
-            eLearning: ["YoutTube", "Udemy", "Udacity", "Khan Academy"]
+            eLearning: ["YoutTube", "Udemy"]
         },
         tools: {
-            scriptingLanguages: ["JavaScript", "Python", "Perl", "Shell"]
+            scriptingLanguages: ["Python", "Bash"]
         },
         tools: {
-            frequentlyUsed: ["Git", "Codium", "GitHub", "Shell"]
+            frequentlyUsed: ["Git", "Codium"]
         },
         tools: {
-            textEditor: ["Codium", "Vim"]
+            textEditor: ["Codium", "Vim", "Nano"]
         },
         tools: {
             virtualization: ["Virtualbox", "VMware", "Hyper-V", "KVM", "Vagrant"]
-        },
-        tools: {
-            graphics: ["GIMP", "Krita", "Inkscape", "Canva"]
         },            
         tools: {
-            documentation: ["MarkDown", "LateX", "Libre Office"]
-        },
-        tools: {
-            freeHosting: ["Netlify", "Heroku", "GitHub Pages"]
-        },
-        tools: {
-            serverAdministration: ["XAMPP", "NGNIX"]
-        },
-        tools: {
-            networkAdministration: ["Packet Tracer", "GNS3"]
-        },
-         tools: {
-            cloudAdministration: ["Google Cloud", "Splunk", "Docker"]
+            documentation: ["MarkDown", "Libre Office"]
         },
         tools: {
             webBrowser: ["LibreWolf", "Brave", "Waterfox"]
