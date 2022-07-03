@@ -2,7 +2,7 @@
 
 Name = "l3ct3r"
 Alias = "H0m@g3"
-Open Source Os = "Fedora, Arch Linux, Mint"
+Open Source Os = "Fedora, Mint"
 Closed Source Os = "Windows"
 Database = "MySQL, SQLite, MySQL Workbench"
 Version Control = "Git"
