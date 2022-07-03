@@ -10,7 +10,7 @@ Scripting Langauge = "Python, Bash"
 Text Editor = "Vim, Nano, Codium"
 Web Browser = "LibreWolf, Brave"
 Documentation = "Markdown, LaTeX"
-Virtualization = "KVM, Hyper-V, VirtualBox, VMWare, Vagrant"
+Virtualization Tools = "KVM, VirtualBox, VMWare, Vagrant"
 e-Learning = "YouTube, Udmey"
 
 ```
