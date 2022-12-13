@@ -1,3 +1,5 @@
+![l3ct3r](https://user-images.githubusercontent.com/48232101/207254093-7b3c8b92-4fe6-4533-8324-55b57860544f.gif)
+
 ```bash
 
 Name = "l3ct3r"
