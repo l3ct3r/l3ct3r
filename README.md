@@ -1,7 +1,7 @@
 ```bash
 
 Name = "l3ct3r"
-Alias = "ru$t"
+Alias = "ru5t"
 Open Source Os = "Fedora, Arch, Ubuntu"
 Closed Source Os = "Windows, OS-X"
 Database Tools = "MySQL Workbench"
