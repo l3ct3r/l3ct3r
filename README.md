@@ -1,9 +1,9 @@
 ```bash
 
 Name = "l3ct3r"
-Alias = "H0m@g3"
-Open Source Os = "Fedora, Mint"
-Closed Source Os = "Windows"
+Alias = "ru$t"
+Open Source Os = "Fedora, Arch, Ubuntu"
+Closed Source Os = "Windows, OS-X"
 Database Tools = "MySQL Workbench"
 Version Control = "Git"
 Scripting Langauge = "Python, Bash"
