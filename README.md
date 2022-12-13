@@ -1,7 +1,8 @@
-![l3ct3r](https://user-images.githubusercontent.com/48232101/207254093-7b3c8b92-4fe6-4533-8324-55b57860544f.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48232101/207256576-d21e5d3e-924c-4715-b2ac-b5cdb06803d7.gif">
+</p>
 
 ```bash
-
 Name = "l3ct3r"
 Alias = "ru5t"
 Open Source Os = "Fedora, Arch, Ubuntu"
