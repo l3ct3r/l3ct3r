@@ -5,15 +5,15 @@
 ```bash
 Name = "l3ct3r"
 Alias = "ru5t"
-Open Source Os = "Fedora, Arch, Ubuntu"
+Open Source Os = "Fedora, Arch, Mint"
 Closed Source Os = "Windows, OS-X"
 Database Tools = "MySQL Workbench"
 Version Control = "Git"
-Scripting Langauge = "Python, Bash"
+Scripting Langauge = "Python, Bash, JavaScript"
 Text Editor = "Vim, Nano, Codium"
 Web Browser = "LibreWolf, Brave"
-Documentation = "Markdown, LaTeX"
-Virtualization Tools = "KVM, VirtualBox, VMWare, Vagrant"
+Documentation = "Markdown"
+Virtualization Tools = "VirtualBox, VMWare, Vagrant"
 e-Learning = "YouTube, Udmey"
 
 ```
